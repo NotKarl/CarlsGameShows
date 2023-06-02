@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cablasius/Documents/UnrealProjects/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizParent.uasset",
+				"C:/Users/cablasius/Documents/UnrealProjects/CarlsGameShows/CarlsGameShows/Content/Blueprints/MainMenu.uasset",
+				"C:/Users/cablasius/Documents/UnrealProjects/CarlsGameShows/CarlsGameShows/Content/Blueprints/WB_MainMenu.uasset",
+				"C:/Users/cablasius/Documents/UnrealProjects/CarlsGameShows/CarlsGameShows/Content/Blueprints/WB_ShowSelector.uasset",
+				"C:/Users/cablasius/Documents/UnrealProjects/CarlsGameShows/CarlsGameShows/Content/GameShowWorld.umap"
+			]
+		}
+	]
+}
