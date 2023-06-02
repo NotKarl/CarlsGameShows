@@ -5262,3 +5262,6 @@ Script Stack (0 frames) :
 [2023.06.02-20.28.16:790][852]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2023.06.02-20.28.16:791][852]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2023.06.02-20.28.16:791][852]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.06.02-20.28.21:343][852]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.06.02-20.28.21:640][852]LogExit: Exiting.
+[2023.06.02-20.28.21:763][852]Log file closed, 06/02/23 22:28:21
