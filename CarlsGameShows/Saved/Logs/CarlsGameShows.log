@@ -1672,3 +1672,1380 @@ Make sure 'WB_QuestionPopUpImage_C' has been compiled for  Get QuestionPopUpText
 [2023.06.29-19.43.27:819][410]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Nerdquiz/WB_NerdQuizBody_Auto2
 [2023.06.29-19.43.27:819][410]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody_Auto20EDB77E6416D53EB9F3BB9BCE3903964.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/Autosaves/Game/Blueprints/Nerdquiz/WB_NerdQuizBody_Auto2.uasset'
 [2023.06.29-19.43.27:820][410]LogFileHelpers: Auto-saving content packages took 0.030
+[2023.06.29-20.14.11:673][565]LogDerivedDataCache: C:/Users/carlb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.154 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5743 files in 7351 folders with total size 482 MiB.
+[2023.06.29-20.22.26:699][418]LogSlate: Window 'Delete Function' being destroyed
+[2023.06.29-20.22.55:221][443]LogEditorTransaction: Undo Remove Graph
+[2023.06.29-20.22.55:642][451]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.22.56:105][465]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.22.56:574][479]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.22.57:110][495]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.06.29-20.23.05:817][926]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.23.05:882][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.29-20.23.06:512][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.23.06:623][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.23.06:635][960]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.23.06:635][960]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody74D4A68040DC980807BFF9B002DA1F31.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.23.06:657][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.32 sec)
+[2023.06.29-20.23.06:662][960]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.23.06:663][960]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.23.48:460][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.29-20.23.48:464][116]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameShowWorld' took 0.023
+[2023.06.29-20.23.48:464][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage] ([2] browsable assets)...
+[2023.06.29-20.23.48:464][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage]
+[2023.06.29-20.23.48:469][116]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage_Auto3
+[2023.06.29-20.23.48:469][116]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpImage_Auto3B82DB33F41A2A225A33274B8DE3F6A18.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/Autosaves/Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage_Auto3.uasset'
+[2023.06.29-20.23.48:469][116]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.06.29-20.24.41:487][543]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.24.41:540][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.29-20.24.42:022][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.24.42:137][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.24.42:148][567]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.24.42:148][567]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody7DEA18C94142329EE74DFFAB7076F109.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.24.42:172][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 2.47 sec)
+[2023.06.29-20.24.42:176][567]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.24.42:176][567]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.24.52:109][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.24.52:220][ 97]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage
+[2023.06.29-20.24.52:221][ 97]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpImageCC06F2C74634066EC9B9E8878F666F53.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_QuestionPopUpImage.uasset'
+[2023.06.29-20.24.52:268][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 2.63 sec)
+[2023.06.29-20.24.52:274][ 97]AssetCheck: New page: Asset Save: WB_QuestionPopUpImage
+[2023.06.29-20.24.52:274][ 97]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage.WB_QuestionPopUpImage
+[2023.06.29-20.25.04:556][805]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.04:706][807]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.04:837][809]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.05:335][823]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.05:803][837]LogEditorTransaction: Undo Move Nodes
+[2023.06.29-20.25.08:250][913]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.08:910][929]LogEditorTransaction: Undo Add In Parameter
+[2023.06.29-20.25.09:326][941]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.09:728][953]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.11:168][996]LogEditorTransaction: Undo Delete current selection
+[2023.06.29-20.25.11:937][ 22]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.12:424][ 31]LogEditorTransaction: Undo Create Reroute Node
+[2023.06.29-20.25.12:873][ 45]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.25.13:208][ 55]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.13:542][ 65]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.13:810][ 73]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.14:011][ 79]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.14:178][ 84]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.14:346][ 89]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.14:513][ 94]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.14:647][ 98]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.15:586][128]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.15:964][135]LogEditorTransaction: Undo Create Pin Link
+[2023.06.29-20.25.16:273][144]LogEditorTransaction: Undo Change Parameter Type
+[2023.06.29-20.25.16:708][157]LogEditorTransaction: Undo Rename Parameter
+[2023.06.29-20.25.17:277][174]LogEditorTransaction: Undo Change Parameter Type
+[2023.06.29-20.25.18:147][200]LogEditorTransaction: Undo Rename Parameter
+[2023.06.29-20.25.19:740][265]LogEditorTransaction: Redo Rename Parameter
+[2023.06.29-20.25.19:916][268]LogEditorTransaction: Redo Change Parameter Type
+[2023.06.29-20.25.20:094][271]LogEditorTransaction: Redo Rename Parameter
+[2023.06.29-20.25.20:220][273]LogEditorTransaction: Redo Change Parameter Type
+[2023.06.29-20.25.20:368][278]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.20:536][283]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.20:703][288]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.20:870][293]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.21:038][298]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.21:239][304]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.21:406][309]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.21:576][314]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.21:777][320]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.21:944][325]LogEditorTransaction: Redo Create Pin Link
+[2023.06.29-20.25.22:145][331]LogEditorTransaction: Redo Move Node
+[2023.06.29-20.25.22:312][336]LogEditorTransaction: Redo Create Reroute Node
+[2023.06.29-20.25.22:480][341]LogEditorTransaction: Redo Move Node
+[2023.06.29-20.25.23:886][400]LogEditorTransaction: Undo Move Node
+[2023.06.29-20.27.41:167][505]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.06.29-20.27.44:363][599]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.29-20.27.44:417][599]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.29-20.28.11:131][437]LogSlate: Window 'Delete Variable' being destroyed
+[2023.06.29-20.28.28:998][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.28.29:104][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.28.29:115][288]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.28.29:116][288]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyC7366F6C45712EEB2EFCEFAEDCC18993.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.28.29:136][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.76 sec)
+[2023.06.29-20.28.29:143][288]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.28.29:143][288]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.28.39:548][910]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.28.39:638][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.06.29-20.28.40:674][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.28.40:799][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.28.40:810][953]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.28.40:810][953]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyB4C2DD91432D983080144BABC4C5721C.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.28.40:833][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 2.92 sec)
+[2023.06.29-20.28.40:838][953]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.28.40:838][953]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.30.17:582][302]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.30.17:642][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.29-20.30.18:447][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.30.18:522][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.30.18:533][334]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.30.18:533][334]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyD41CAAC14A07E9E2DE4453AD90A2E940.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.30.18:557][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 3.03 sec)
+[2023.06.29-20.30.19:035][334]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.30.19:035][334]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.30.27:873][788]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpSound.WB_QuestionPopUpSound
+[2023.06.29-20.30.27:873][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-20.30.27:873][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-20.30.27:917][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-20.30.27:917][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-20.30.32:799][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.30.32:909][ 22]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage
+[2023.06.29-20.30.32:910][ 22]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpImageFE719E5A4B459FD33F7830AFEB281B63.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_QuestionPopUpImage.uasset'
+[2023.06.29-20.30.32:948][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.18 sec)
+[2023.06.29-20.30.32:952][ 22]AssetCheck: New page: Asset Save: WB_QuestionPopUpImage
+[2023.06.29-20.30.32:952][ 22]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage.WB_QuestionPopUpImage
+[2023.06.29-20.31.19:432][897]LogEditorTransaction: Undo Edit Padding
+[2023.06.29-20.31.31:560][510]LogEditorTransaction: Undo Edit Left
+[2023.06.29-20.31.41:963][ 20]BlueprintLog: New page: Compile WB_QuestionPopUpImage
+[2023.06.29-20.31.42:005][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.29-20.31.43:009][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.31.43:136][ 56]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage
+[2023.06.29-20.31.43:136][ 56]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpImage2FEFFA36427081E2D0A271AB35786268.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_QuestionPopUpImage.uasset'
+[2023.06.29-20.31.43:167][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 3.34 sec)
+[2023.06.29-20.31.43:172][ 56]AssetCheck: New page: Asset Save: WB_QuestionPopUpImage
+[2023.06.29-20.31.43:172][ 56]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage.WB_QuestionPopUpImage
+[2023.06.29-20.32.19:116][749]BlueprintLog: New page: Compile WB_QuestionPopUpImage
+[2023.06.29-20.32.19:152][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.29-20.32.57:058][621]BlueprintLog: New page: Compile WB_QuestionPopUpImage
+[2023.06.29-20.32.57:094][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.29-20.32.57:558][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.32.57:677][643]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage
+[2023.06.29-20.32.57:677][643]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpImageBA0DF4BE497346982421AD843E07CFFA.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_QuestionPopUpImage.uasset'
+[2023.06.29-20.32.57:707][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.49 sec)
+[2023.06.29-20.32.57:712][643]AssetCheck: New page: Asset Save: WB_QuestionPopUpImage
+[2023.06.29-20.32.57:712][643]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage.WB_QuestionPopUpImage
+[2023.06.29-20.32.59:429][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.29-20.32.59:434][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-20.32.59:434][716]PIE: New page: PIE session: GameShowWorld (30.06.2023, 00:32:59)
+[2023.06.29-20.32.59:435][716]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.32.59:436][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001218s)
+[2023.06.29-20.32.59:436][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001252s)
+[2023.06.29-20.32.59:436][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-20.32.59:436][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-20.32.59:436][716]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.29-20.32.59:436][716]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2023.06.29-20.32.59:453][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.29-20.32.59:456][716]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.06.29-20.32.59:456][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-20.32.59:456][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-20.32.59:456][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-20.32.59:456][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-20.32.59:456][716]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.29-20.32.59:456][716]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.29-20.32.59:456][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.29-20.32.59:456][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-20.32.59:456][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-20.32.59:456][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-20.32.59:456][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-20.32.59:458][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.29-20.32.59:483][716]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (Arctis 5 Game)
+[2023.06.29-20.32.59:484][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-20.32.59:484][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-20.32.59:484][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-20.32.59:485][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.06.29-20.32.59:485][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.06.29-20.32.59:486][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.06.29-20.32.59:487][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.06.29-20.32.59:487][716]LogInit: FAudioDevice initialized with ID 5.
+[2023.06.29-20.32.59:487][716]LogAudio: Display: Audio Device (ID: 5) registered with world 'GameShowWorld'.
+[2023.06.29-20.32.59:487][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.06.29-20.32.59:539][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.32.59:539][716]LogLoad: Game class is 'GameModeBase'
+[2023.06.29-20.32.59:540][716]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 0) at 2023.06.29-22.32.59
+[2023.06.29-20.32.59:540][716]LogWorld: Bringing up level for play took: 0.000343
+[2023.06.29-20.32.59:542][716]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.06.29-20.32.59:542][716]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.29-20.32.59:543][716]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.29-20.32.59:543][716]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.29-20.32.59:543][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.29-20.32.59:545][716]PIE: Server logged in
+[2023.06.29-20.32.59:546][716]PIE: Play in editor total start time 0,112 seconds.
+[2023.06.29-20.32.59:553][716]LogViewport: Scene viewport resized to 1398x790, mode Windowed.
+[2023.06.29-20.33.06:253][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.33.06:253][912]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.33.06:253][912]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.29-20.33.06:287][912]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-20.33.06:287][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.33.06:289][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.29-20.33.06:293][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.33.06:312][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-20.33.06:313][912]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.06.29-20.33.06:313][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.29-20.33.06:314][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.29-20.33.06:320][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.06.29-20.33.06:336][913]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.06.29-20.33.24:296][890]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.33.24:351][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.29-20.33.24:772][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.33.24:883][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.33.24:894][909]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.33.24:894][909]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyED8E5ECA4F17E384BD6CB7BC0206C986.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.33.24:917][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.63 sec)
+[2023.06.29-20.33.24:922][909]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.33.24:922][909]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.33.28:433][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.33.28:539][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.33.28:549][ 74]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.33.28:550][ 74]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody0655D436446D54C1DDA0289EDA704A2E.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.33.28:581][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.78 sec)
+[2023.06.29-20.33.28:586][ 74]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.33.28:587][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.33.31:123][204]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.29-20.33.31:129][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-20.33.31:129][204]PIE: New page: PIE session: GameShowWorld (30.06.2023, 00:33:31)
+[2023.06.29-20.33.31:129][204]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.33.31:130][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001221s)
+[2023.06.29-20.33.31:130][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001250s)
+[2023.06.29-20.33.31:130][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-20.33.31:130][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-20.33.31:131][204]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.29-20.33.31:131][204]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2023.06.29-20.33.31:150][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.06.29-20.33.31:152][204]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.06.29-20.33.31:152][204]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-20.33.31:152][204]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-20.33.31:152][204]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-20.33.31:152][204]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-20.33.31:152][204]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.29-20.33.31:152][204]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.29-20.33.31:152][204]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.29-20.33.31:152][204]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-20.33.31:153][204]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-20.33.31:153][204]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-20.33.31:153][204]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-20.33.31:154][204]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.29-20.33.31:177][204]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (Arctis 5 Game)
+[2023.06.29-20.33.31:178][204]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-20.33.31:178][204]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-20.33.31:178][204]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-20.33.31:179][204]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.06.29-20.33.31:179][204]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.06.29-20.33.31:180][204]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.06.29-20.33.31:180][204]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.06.29-20.33.31:180][204]LogInit: FAudioDevice initialized with ID 6.
+[2023.06.29-20.33.31:180][204]LogAudio: Display: Audio Device (ID: 6) registered with world 'GameShowWorld'.
+[2023.06.29-20.33.31:180][204]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.06.29-20.33.31:233][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.33.31:233][204]LogLoad: Game class is 'GameModeBase'
+[2023.06.29-20.33.31:233][204]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 0) at 2023.06.29-22.33.31
+[2023.06.29-20.33.31:233][204]LogWorld: Bringing up level for play took: 0.000399
+[2023.06.29-20.33.31:235][204]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.06.29-20.33.31:235][204]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.29-20.33.31:237][204]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.29-20.33.31:237][204]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.29-20.33.31:237][204]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.29-20.33.31:238][204]PIE: Server logged in
+[2023.06.29-20.33.31:240][204]PIE: Play in editor total start time 0,111 seconds.
+[2023.06.29-20.33.31:246][204]LogViewport: Scene viewport resized to 1398x790, mode Windowed.
+[2023.06.29-20.33.35:932][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.33.35:932][340]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.33.35:933][340]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.29-20.33.35:948][340]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-20.33.35:949][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.33.35:951][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.29-20.33.35:955][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.33.35:973][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-20.33.35:973][340]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.06.29-20.33.35:973][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.29-20.33.35:975][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.29-20.33.35:980][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.06.29-20.33.35:993][341]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.06.29-20.34.10:706][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.34.10:813][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.34.10:823][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.34.10:824][380]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyF552EC9C46782B9BA7E226869A7D8D87.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.34.10:855][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.93 sec)
+[2023.06.29-20.34.10:860][380]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.34.10:860][380]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.37.27:707][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.29-20.37.27:709][718]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameShowWorld' took 0.019
+[2023.06.29-20.37.27:710][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Nerdquiz/WB_NerdQuizBody] ([2] browsable assets)...
+[2023.06.29-20.37.27:710][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Nerdquiz/WB_NerdQuizBody]
+[2023.06.29-20.37.27:720][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Nerdquiz/WB_NerdQuizBody_Auto4
+[2023.06.29-20.37.27:720][718]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody_Auto4114A5F6345E9ABA651A683A44FA72B7C.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/Autosaves/Game/Blueprints/Nerdquiz/WB_NerdQuizBody_Auto4.uasset'
+[2023.06.29-20.37.27:720][718]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.06.29-20.39.47:629][915]LogEditorTransaction: Undo Move Nodes
+[2023.06.29-20.41.09:480][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.41.09:587][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.41.09:601][914]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.41.09:601][914]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody3A48CCDC4FB1F450AA1ED4BF80B9EFF4.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.41.09:619][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 4.07 sec)
+[2023.06.29-20.41.09:627][914]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.41.09:627][914]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.41.35:139][365]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.41.35:200][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.06.29-20.43.24:376][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.43.24:477][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.43.24:491][788]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.43.24:491][788]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody4FAACA5D4CB263974EC67FAE5E58F78C.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.43.24:512][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 4.21 sec)
+[2023.06.29-20.43.24:518][788]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.43.24:518][788]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.43.25:866][868]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.43.25:939][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.06.29-20.43.26:430][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.43.26:551][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.43.26:566][889]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.43.26:566][889]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyD6D854414F787543454C53861679183C.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.43.26:585][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 4.36 sec)
+[2023.06.29-20.43.26:590][889]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.43.26:590][889]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.43.27:520][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.29-20.43.27:525][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-20.43.27:525][943]PIE: New page: PIE session: GameShowWorld (30.06.2023, 00:43:27)
+[2023.06.29-20.43.27:525][943]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.43.27:527][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001175s)
+[2023.06.29-20.43.27:527][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001200s)
+[2023.06.29-20.43.27:527][943]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-20.43.27:527][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-20.43.27:527][943]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.29-20.43.27:527][943]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2023.06.29-20.43.27:548][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.06.29-20.43.27:551][943]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.06.29-20.43.27:551][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-20.43.27:551][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-20.43.27:551][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-20.43.27:551][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-20.43.27:551][943]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.29-20.43.27:551][943]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.29-20.43.27:551][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.29-20.43.27:551][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-20.43.27:552][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-20.43.27:552][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-20.43.27:552][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-20.43.27:554][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.29-20.43.27:578][943]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (Arctis 5 Game)
+[2023.06.29-20.43.27:578][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-20.43.27:578][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-20.43.27:578][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-20.43.27:579][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.06.29-20.43.27:579][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.06.29-20.43.27:580][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.06.29-20.43.27:580][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.06.29-20.43.27:580][943]LogInit: FAudioDevice initialized with ID 7.
+[2023.06.29-20.43.27:580][943]LogAudio: Display: Audio Device (ID: 7) registered with world 'GameShowWorld'.
+[2023.06.29-20.43.27:580][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.06.29-20.43.27:629][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.43.27:629][943]LogLoad: Game class is 'GameModeBase'
+[2023.06.29-20.43.27:629][943]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 0) at 2023.06.29-22.43.27
+[2023.06.29-20.43.27:629][943]LogWorld: Bringing up level for play took: 0.000359
+[2023.06.29-20.43.27:631][943]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.06.29-20.43.27:631][943]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.29-20.43.27:633][943]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.29-20.43.27:633][943]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.29-20.43.27:633][943]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.29-20.43.27:635][943]PIE: Server logged in
+[2023.06.29-20.43.27:636][943]PIE: Play in editor total start time 0,111 seconds.
+[2023.06.29-20.43.27:644][943]LogViewport: Scene viewport resized to 1398x790, mode Windowed.
+[2023.06.29-20.43.39:712][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.43.39:712][285]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.43.39:712][285]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.29-20.43.39:746][285]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-20.43.39:746][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.43.39:748][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.29-20.43.39:752][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.43.39:771][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-20.43.39:772][285]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.06.29-20.43.39:772][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.06.29-20.43.39:774][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.06.29-20.43.39:779][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.29-20.43.39:794][286]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.06.29-20.43.49:192][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.29-20.43.53:154][ 34]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.29-20.43.53:160][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-20.43.53:160][ 34]PIE: New page: PIE session: GameShowWorld (30.06.2023, 00:43:53)
+[2023.06.29-20.43.53:160][ 34]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.43.53:161][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001205s)
+[2023.06.29-20.43.53:161][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001231s)
+[2023.06.29-20.43.53:161][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-20.43.53:161][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-20.43.53:162][ 34]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.29-20.43.53:162][ 34]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2023.06.29-20.43.53:180][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.29-20.43.53:182][ 34]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.06.29-20.43.53:182][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-20.43.53:182][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-20.43.53:182][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-20.43.53:182][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-20.43.53:182][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.29-20.43.53:182][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.29-20.43.53:182][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.29-20.43.53:182][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-20.43.53:182][ 34]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-20.43.53:182][ 34]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-20.43.53:182][ 34]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-20.43.53:184][ 34]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.29-20.43.53:207][ 34]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (Arctis 5 Game)
+[2023.06.29-20.43.53:207][ 34]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-20.43.53:207][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-20.43.53:207][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-20.43.53:208][ 34]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.06.29-20.43.53:208][ 34]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.06.29-20.43.53:209][ 34]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.06.29-20.43.53:209][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.06.29-20.43.53:209][ 34]LogInit: FAudioDevice initialized with ID 8.
+[2023.06.29-20.43.53:209][ 34]LogAudio: Display: Audio Device (ID: 8) registered with world 'GameShowWorld'.
+[2023.06.29-20.43.53:209][ 34]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.06.29-20.43.53:266][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.43.53:267][ 34]LogLoad: Game class is 'GameModeBase'
+[2023.06.29-20.43.53:267][ 34]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 0) at 2023.06.29-22.43.53
+[2023.06.29-20.43.53:267][ 34]LogWorld: Bringing up level for play took: 0.000351
+[2023.06.29-20.43.53:269][ 34]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.06.29-20.43.53:269][ 34]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.29-20.43.53:271][ 34]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.29-20.43.53:271][ 34]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.29-20.43.53:271][ 34]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.29-20.43.53:273][ 34]PIE: Server logged in
+[2023.06.29-20.43.53:274][ 34]PIE: Play in editor total start time 0,115 seconds.
+[2023.06.29-20.43.53:281][ 34]LogViewport: Scene viewport resized to 1398x790, mode Windowed.
+[2023.06.29-20.44.00:932][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.44.00:932][260]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.44.00:932][260]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.29-20.44.00:963][260]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-20.44.00:963][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.44.00:965][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.29-20.44.00:969][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.44.00:988][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-20.44.00:988][260]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.06.29-20.44.00:988][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.06.29-20.44.00:989][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.06.29-20.44.00:999][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.29-20.44.01:014][261]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.06.29-20.45.51:569][314]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.45.51:628][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.06.29-20.45.52:970][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.29-20.45.52:976][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-20.45.52:976][371]PIE: New page: PIE session: GameShowWorld (30.06.2023, 00:45:52)
+[2023.06.29-20.45.52:976][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.45.52:977][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001155s)
+[2023.06.29-20.45.52:977][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001183s)
+[2023.06.29-20.45.52:977][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-20.45.52:977][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-20.45.52:978][371]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.29-20.45.52:978][371]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2023.06.29-20.45.52:998][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.29-20.45.53:000][371]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.29-20.45.53:000][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-20.45.53:000][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-20.45.53:000][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-20.45.53:000][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-20.45.53:000][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.29-20.45.53:000][371]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.29-20.45.53:000][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.29-20.45.53:000][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-20.45.53:000][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-20.45.53:000][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-20.45.53:000][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-20.45.53:002][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.29-20.45.53:026][371]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (Arctis 5 Game)
+[2023.06.29-20.45.53:026][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-20.45.53:026][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-20.45.53:026][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-20.45.53:027][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.06.29-20.45.53:027][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.06.29-20.45.53:028][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.06.29-20.45.53:028][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.06.29-20.45.53:028][371]LogInit: FAudioDevice initialized with ID 9.
+[2023.06.29-20.45.53:028][371]LogAudio: Display: Audio Device (ID: 9) registered with world 'GameShowWorld'.
+[2023.06.29-20.45.53:028][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.06.29-20.45.53:080][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.45.53:080][371]LogLoad: Game class is 'GameModeBase'
+[2023.06.29-20.45.53:080][371]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 0) at 2023.06.29-22.45.53
+[2023.06.29-20.45.53:080][371]LogWorld: Bringing up level for play took: 0.000312
+[2023.06.29-20.45.53:082][371]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.06.29-20.45.53:082][371]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.29-20.45.53:084][371]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.29-20.45.53:084][371]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.29-20.45.53:084][371]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.29-20.45.53:086][371]PIE: Server logged in
+[2023.06.29-20.45.53:087][371]PIE: Play in editor total start time 0,111 seconds.
+[2023.06.29-20.45.53:093][371]LogViewport: Scene viewport resized to 1398x790, mode Windowed.
+[2023.06.29-20.46.04:142][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-20.46.04:142][696]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-20.46.04:142][696]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.29-20.46.04:165][696]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-20.46.04:165][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.46.04:167][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.29-20.46.04:171][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-20.46.04:190][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-20.46.04:190][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.06.29-20.46.04:190][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.29-20.46.04:192][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.29-20.46.04:197][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.29-20.46.04:212][697]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.06.29-20.46.07:259][867]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-20.46.07:315][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.29-20.46.07:668][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-20.46.07:790][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-20.46.07:804][881]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-20.46.07:804][881]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyA0BE03C549BB040368A9189976C1404E.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-20.46.07:824][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 4.52 sec)
+[2023.06.29-20.46.07:829][881]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-20.46.07:829][881]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-20.49.40:512][176]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Lautsprecher (High Definition Audio Device), InstanceID=1
+[2023.06.29-20.49.40:763][177]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26556
+[2023.06.29-20.49.41:213][178]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edef4b22-d44b-4650-8019-86f15c57f256}, Name=Lautsprecher (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=588.71
+[2023.06.29-20.49.41:214][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.29-20.49.41:215][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.29-20.53.04:412][ 24]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.29-20.53.04:427][ 24]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.29-20.53.04:433][ 25]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.29-20.53.09:735][344]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2023.06.29-20.53.09:736][344]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.29-20.53.13:324][494]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.29-20.53.13:339][494]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.29-20.53.13:352][496]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.29-20.53.20:923][922]LogContentBrowser: Attempting asset rename: NewFolder -> StarWars
+[2023.06.29-20.53.20:924][922]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.29-20.53.24:728][127]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2023.06.29-20.53.24:737][127]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:\Downloads\Star Wars - John Williams - Duel Of The Fates.mp3)
+[2023.06.29-20.53.34:129][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.06.29-20.53.35:301][396]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.29-20.53.35:371][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.29-20.53.35:388][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.29-20.53.35:404][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.29-21.02.10:650][755]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_1 and AvfFileMediaSourceFactory_1
+[2023.06.29-21.02.10:657][755]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:\Downloads\Star Wars - John Williams - Duel Of The Fates.mp3)
+[2023.06.29-21.02.21:061][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.06.29-21.02.22:022][588]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.29-21.02.22:046][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.29-21.02.22:065][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.06.29-21.02.22:082][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.29-21.02.39:541][819]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_2 and AvfFileMediaSourceFactory_2
+[2023.06.29-21.02.39:547][819]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:/Downloads/Star Wars - Battle of the Heroes.mp3)
+[2023.06.29-21.02.56:214][780]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Sounds/StarWars/Star_Wars_-_Battle_of_the_Heroes.Star_Wars_-_Battle_of_the_Heroes
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: ================================================
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: RAM used: 9,53 KiB of 819,20 MiB budget. Usage: 0.00%
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 1.17 s
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 1.28
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.28 s
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Average processing rate: 1.56 jobs/sec
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Total thread time: 0,377 s
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Total thread preprocess time: 0,028 s
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Percentage time preprocessing: 7.47%
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Effective parallelization: 0.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 54.00% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 46.00% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2023.06.29-21.02.57:735][936]LogShaderCompilers: Display: ================================================
+[2023.06.29-21.03.04:897][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.29-21.03.05:973][767]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.29-21.03.06:031][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.29-21.03.06:048][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.06.29-21.03.06:066][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.29-21.14.12:606][166]LogDerivedDataCache: C:/Users/carlb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.087 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5745 files in 7353 folders with total size 482 MiB.
+[2023.06.29-21.17.06:019][976]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Downloads\Star Wars - John Williams - Duel Of The Fates.wav)
+[2023.06.29-21.17.06:133][976]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Star_Wars_-_John_Williams_-_Duel_Of_The_Fates...
+[2023.06.29-21.17.07:377][976]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates: 262144
+[2023.06.29-21.17.07:409][976]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Star_Wars_-_John_Williams_-_Duel_Of_The_Fates...
+[2023.06.29-21.17.07:456][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.29-21.17.08:665][981]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates: 262144
+[2023.06.29-21.17.19:276][297]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates
+[2023.06.29-21.17.44:478][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.06.29-21.17.44:481][505]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameShowWorld' took 0.022
+[2023.06.29-21.17.44:481][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates] ([1] browsable assets)...
+[2023.06.29-21.17.44:505][505]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates]
+[2023.06.29-21.17.44:505][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates]
+[2023.06.29-21.17.44:626][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates_Auto5
+[2023.06.29-21.17.44:626][505]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/Star_Wars_-_John_Williams_-_Duel1323BB13494ADB67B814BBB032262F2B.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/Autosaves/Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates_Auto5.uasset'
+[2023.06.29-21.17.44:626][505]LogFileHelpers: Auto-saving content packages took 0.146
+[2023.06.29-21.33.41:795][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.33.41:973][377]LogSavePackage: Moving output files for package: /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates
+[2023.06.29-21.33.41:973][377]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/Star_Wars_-_John_Williams_-_DuelBB24262B4E500EFA1839F3BA070E2B2C.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.uasset'
+[2023.06.29-21.33.41:992][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 4.71 sec)
+[2023.06.29-21.33.41:999][377]AssetCheck: New page: Asset Save: Star_Wars_-_John_Williams_-_Duel_Of_The_Fates
+[2023.06.29-21.33.41:999][377]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates
+[2023.06.29-21.34.14:945][178]LogScript: Warning: Accessed None trying to read property QuestionPopUpText
+	WB_QuestionPopUpSound_C /Engine/Transient.World_43:WB_QuestionPopUpSound_C_6
+	Function /Game/Blueprints/Nerdquiz/WB_QuestionPopUpSound.WB_QuestionPopUpSound_C:ExecuteUbergraph_WB_QuestionPopUpSound:0017
+[2023.06.29-21.34.17:937][537]BlueprintLog: New page: Compile WB_QuestionPopUpSound
+[2023.06.29-21.34.18:014][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.06.29-21.35.03:818][894]BlueprintLog: New page: Compile WB_QuestionPopUpSound
+[2023.06.29-21.35.03:858][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.06.29-21.35.04:270][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.35.04:331][933]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_QuestionPopUpSound
+[2023.06.29-21.35.04:331][933]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpSound9FE190624DEFD8B74AF9258CE00245CD.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_QuestionPopUpSound.uasset'
+[2023.06.29-21.35.04:340][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.78 sec)
+[2023.06.29-21.35.04:345][933]AssetCheck: New page: Asset Save: WB_QuestionPopUpSound
+[2023.06.29-21.35.04:345][933]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpSound.WB_QuestionPopUpSound
+[2023.06.29-21.35.45:070][772]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ActionMapping/Inputs/CloseThings.CloseThings
+[2023.06.29-21.36.01:710][726]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Nerdquiz/S_Question.S_Question
+[2023.06.29-21.36.08:198][425]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CategoryList_2' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CategoryList_2' is empty
+[2023.06.29-21.36.08:204][425]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_CategoryList_3' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_CategoryList_3' is empty
+[2023.06.29-21.36.09:205][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.36.09:264][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/S_Question" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/S_Question.uasset" SILENT=true
+[2023.06.29-21.36.09:265][537]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/S_Question
+[2023.06.29-21.36.09:265][537]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/S_QuestionCE6504C54D3A94BDA3A7399BBD30588D.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/S_Question.uasset'
+[2023.06.29-21.36.09:271][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.85 sec)
+[2023.06.29-21.36.09:278][537]AssetCheck: New page: Asset Save: S_Question
+[2023.06.29-21.36.09:278][537]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Nerdquiz/S_Question.S_Question
+[2023.06.29-21.36.39:949][116]BlueprintLog: New page: Compile WB_NerdquizWall
+[2023.06.29-21.36.40:042][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.29-21.36.49:772][167]BlueprintLog: New page: Compile WB_NerdquizWall
+[2023.06.29-21.36.49:864][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.29-21.36.50:387][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.36.50:462][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdquizWall" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdquizWall.uasset" SILENT=true
+[2023.06.29-21.36.50:479][197]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdquizWall
+[2023.06.29-21.36.50:479][197]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdquizWallC16C167147A8B1DA4B080AB521786F72.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdquizWall.uasset'
+[2023.06.29-21.36.50:484][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 4.95 sec)
+[2023.06.29-21.36.50:494][197]AssetCheck: New page: Asset Save: WB_NerdquizWall
+[2023.06.29-21.36.50:494][197]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdquizWall.WB_NerdquizWall
+[2023.06.29-21.37.01:691][531]BlueprintLog: New page: Compile WB_QuestionPopUpSound
+[2023.06.29-21.37.01:751][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.06.29-21.37.02:242][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.37.02:295][581]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_QuestionPopUpSound
+[2023.06.29-21.37.02:295][581]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpSound4FC548C847974FE30EE0E5A3D397E32E.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_QuestionPopUpSound.uasset'
+[2023.06.29-21.37.02:302][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.01 sec)
+[2023.06.29-21.37.02:307][581]AssetCheck: New page: Asset Save: WB_QuestionPopUpSound
+[2023.06.29-21.37.02:307][581]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpSound.WB_QuestionPopUpSound
+[2023.06.29-21.37.48:782][ 53]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-21.37.48:790][ 53]LogBlueprint: Error: [AssetLog] G:\GitHub\CarlsGameShows\CarlsGameShows\Content\Blueprints\Nerdquiz\WB_NerdQuizBody.uasset: [Compiler] Invalid pin connection from  Question Sound  and  Question 1000Information Sound : Sound Cue Object Reference is not compatible with Sound Wave Object Reference. (You may have changed the type after the connections were made)
+[2023.06.29-21.37.48:790][ 53]LogBlueprint: Error: [AssetLog] G:\GitHub\CarlsGameShows\CarlsGameShows\Content\Blueprints\Nerdquiz\WB_NerdQuizBody.uasset: [Compiler] Invalid pin connection from  Question Sound  and  Question 700Information Sound : Sound Cue Object Reference is not compatible with Sound Wave Object Reference. (You may have changed the type after the connections were made)
+[2023.06.29-21.37.48:791][ 53]LogBlueprint: Error: [AssetLog] G:\GitHub\CarlsGameShows\CarlsGameShows\Content\Blueprints\Nerdquiz\WB_NerdQuizBody.uasset: [Compiler] Invalid pin connection from  Question Sound  and  Question 400Information Sound : Sound Cue Object Reference is not compatible with Sound Wave Object Reference. (You may have changed the type after the connections were made)
+[2023.06.29-21.37.48:792][ 53]LogBlueprint: Error: [AssetLog] G:\GitHub\CarlsGameShows\CarlsGameShows\Content\Blueprints\Nerdquiz\WB_NerdQuizBody.uasset: [Compiler] Invalid pin connection from  Question Sound  and  Question 200Information Sound : Sound Cue Object Reference is not compatible with Sound Wave Object Reference. (You may have changed the type after the connections were made)
+[2023.06.29-21.37.48:792][ 53]LogBlueprint: Error: [AssetLog] G:\GitHub\CarlsGameShows\CarlsGameShows\Content\Blueprints\Nerdquiz\WB_NerdQuizBody.uasset: [Compiler] Invalid pin connection from  Question Sound  and  Question 100Information Sound : Sound Cue Object Reference is not compatible with Sound Wave Object Reference. (You may have changed the type after the connections were made)
+[2023.06.29-21.37.49:316][ 53]LogProperty: Warning: Serialized Class /Script/Engine.SoundWave for a property of Class /Script/Engine.SoundCue. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.STRUCT_REINST_S_Question_1:Sound_9_B51D6CF14F3115C3E697A2A01C76B9EB
+    Item = SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates
+[2023.06.29-21.37.49:318][ 53]LogProperty: Warning: Serialized Class /Script/Engine.SoundWave for a property of Class /Script/Engine.SoundCue. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.STRUCT_REINST_S_Question_1:Sound_9_B51D6CF14F3115C3E697A2A01C76B9EB
+    Item = SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates
+[2023.06.29-21.37.49:320][ 53]LogProperty: Warning: Serialized Class /Script/Engine.SoundWave for a property of Class /Script/Engine.SoundCue. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.STRUCT_REINST_S_Question_1:Sound_9_B51D6CF14F3115C3E697A2A01C76B9EB
+    Item = SoundWave /Game/Sounds/StarWars/Star_Wars_-_John_Williams_-_Duel_Of_The_Fates.Star_Wars_-_John_Williams_-_Duel_Of_The_Fates
+[2023.06.29-21.37.49:370][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.06.29-21.37.49:495][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.37.49:548][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-21.37.49:563][ 54]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-21.37.49:563][ 54]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyCA40E6F543001F6CDB18819D70B6F104.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-21.37.49:570][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 5.08 sec)
+[2023.06.29-21.37.49:578][ 54]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-21.37.49:578][ 54]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-21.38.16:712][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.38.16:770][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-21.38.16:785][224]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-21.38.16:786][224]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody25C944BB4584C0B69E2AAEBB091915B2.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-21.38.16:792][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.16 sec)
+[2023.06.29-21.38.16:800][224]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-21.38.16:800][224]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-21.38.17:648][324]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.29-21.38.17:728][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.29-21.38.18:500][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.38.18:555][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-21.38.18:570][396]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-21.38.18:570][396]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyF69981BE469C594239413599462068C2.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-21.38.18:578][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 5.24 sec)
+[2023.06.29-21.38.18:585][396]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-21.38.18:585][396]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-21.38.21:650][748]BlueprintLog: New page: Compile WB_NerdquizWall
+[2023.06.29-21.38.21:743][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.06.29-21.38.24:853][ 87]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.29-21.38.24:859][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.29-21.38.24:859][ 87]PIE: New page: PIE session: GameShowWorld (30.06.2023, 01:38:24)
+[2023.06.29-21.38.24:859][ 87]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-21.38.24:861][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001257s)
+[2023.06.29-21.38.24:861][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001282s)
+[2023.06.29-21.38.24:861][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.29-21.38.24:861][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-21.38.24:861][ 87]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.29-21.38.24:862][ 87]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2023.06.29-21.38.24:881][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.29-21.38.24:883][ 87]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.29-21.38.24:883][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.29-21.38.24:883][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.29-21.38.24:883][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.29-21.38.24:883][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.29-21.38.24:883][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.29-21.38.24:883][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.29-21.38.24:883][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.29-21.38.24:883][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.29-21.38.24:883][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.29-21.38.24:883][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.29-21.38.24:883][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.29-21.38.24:886][ 87]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.29-21.38.24:912][ 87]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (High Definition Audio Device)
+[2023.06.29-21.38.24:914][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.29-21.38.24:914][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.29-21.38.24:914][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.29-21.38.24:915][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.06.29-21.38.24:915][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.06.29-21.38.24:916][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.06.29-21.38.24:916][ 87]LogInit: FAudioDevice initialized with ID 10.
+[2023.06.29-21.38.24:916][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.06.29-21.38.24:916][ 87]LogAudio: Display: Audio Device (ID: 10) registered with world 'GameShowWorld'.
+[2023.06.29-21.38.24:916][ 87]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.06.29-21.38.24:977][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-21.38.24:977][ 87]LogLoad: Game class is 'GameModeBase'
+[2023.06.29-21.38.24:978][ 87]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 0) at 2023.06.29-23.38.24
+[2023.06.29-21.38.24:978][ 87]LogWorld: Bringing up level for play took: 0.000418
+[2023.06.29-21.38.24:980][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.06.29-21.38.24:980][ 87]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.29-21.38.24:982][ 87]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.29-21.38.24:982][ 87]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.29-21.38.24:982][ 87]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.29-21.38.24:984][ 87]PIE: Server logged in
+[2023.06.29-21.38.24:986][ 87]PIE: Play in editor total start time 0,127 seconds.
+[2023.06.29-21.38.24:995][ 87]LogViewport: Scene viewport resized to 1398x790, mode Windowed.
+[2023.06.29-21.38.36:090][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.29-21.38.36:090][372]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.29-21.38.36:090][372]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.29-21.38.36:092][372]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.38.36:092][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.38.36:096][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.29-21.38.36:100][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.38.36:121][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.29-21.38.36:121][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.06.29-21.38.36:121][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.29-21.38.36:123][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.29-21.38.36:130][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.29-21.38.36:155][374]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.06.29-21.39.03:693][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.29-21.39.03:695][979]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameShowWorld' took 0.019
+[2023.06.29-21.39.03:695][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Nerdquiz/S_CategoryList] ([1] browsable assets)...
+[2023.06.29-21.39.03:695][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Nerdquiz/S_CategoryList]
+[2023.06.29-21.39.03:698][979]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Nerdquiz/S_CategoryList_Auto6
+[2023.06.29-21.39.03:698][979]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/S_CategoryList_Auto6A9320E4A467B513E2481AEB2B75E4968.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/Autosaves/Game/Blueprints/Nerdquiz/S_CategoryList_Auto6.uasset'
+[2023.06.29-21.39.03:698][979]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.06.29-21.42.08:579][196]BlueprintLog: New page: Compile WB_QuestionPopUpImage
+[2023.06.29-21.42.08:624][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.29-21.42.09:100][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.42.09:216][220]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage
+[2023.06.29-21.42.09:217][220]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_QuestionPopUpImage5C84C55A4A397952681D2E93AA8F16E1.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_QuestionPopUpImage.uasset'
+[2023.06.29-21.42.09:246][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 5.38 sec)
+[2023.06.29-21.42.09:251][220]AssetCheck: New page: Asset Save: WB_QuestionPopUpImage
+[2023.06.29-21.42.09:251][220]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_QuestionPopUpImage.WB_QuestionPopUpImage
+[2023.06.29-21.46.28:424][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.46.28:532][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/WB_NerdQuizBody" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset" SILENT=true
+[2023.06.29-21.46.28:547][847]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.29-21.46.28:547][847]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody19A25FBA4CEEF8D2342513B2919B3804.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.29-21.46.28:565][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 5.52 sec)
+[2023.06.29-21.46.28:573][847]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.29-21.46.28:573][847]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.29-21.46.30:359][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.06.29-21.46.32:011][955]LogSlate: Window 'Save Content' being destroyed
+[2023.06.29-21.46.32:050][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-21.46.32:104][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Nerdquiz/S_CategoryList" FILE="../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/S_CategoryList.uasset" SILENT=true
+[2023.06.29-21.46.32:105][955]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/S_CategoryList
+[2023.06.29-21.46.32:105][955]LogSavePackage: Moving '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Saved/S_CategoryList7B09AD7448475F0FF7E8679C1D2558D8.tmp' to '../../../../../GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/S_CategoryList.uasset'
+[2023.06.29-21.46.32:153][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.63 sec)
+[2023.06.29-21.46.32:153][955]LogStall: Shutdown...
+[2023.06.29-21.46.32:157][955]LogStall: Shutdown complete.
+[2023.06.29-21.46.32:377][955]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:377][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:388][955]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:388][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:549][955]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:549][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:555][955]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:555][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:754][955]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:754][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:760][955]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:760][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:918][955]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:918][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:924][955]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:925][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.32:996][955]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.32:996][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.33:002][955]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.33:002][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.33:089][955]LogSlate: Window 'CarlsGameShows - Unreal Editor' being destroyed
+[2023.06.29-21.46.33:445][955]AssetCheck: New page: Asset Save: S_CategoryList
+[2023.06.29-21.46.33:445][955]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Nerdquiz/S_CategoryList.S_CategoryList
+[2023.06.29-21.46.33:446][956]Cmd: QUIT_EDITOR
+[2023.06.29-21.46.33:446][956]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.06.29-21.46.33:450][956]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.06.29-21.46.33:450][956]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.06.29-21.46.33:450][956]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.06.29-21.46.33:452][956]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-21.46.33:452][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-21.46.33:456][956]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.06.29-21.46.33:458][956]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.06.29-21.46.33:941][956]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.06.29-21.46.33:942][956]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.06.29-21.46.33:942][956]LogAudio: Display: Audio Device unregistered from world 'GameShowWorld'.
+[2023.06.29-21.46.33:942][956]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.06.29-21.46.33:949][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.06.29-21.46.33:952][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.06.29-21.46.33:959][956]LogAudio: Display: Audio Device Manager Shutdown
+[2023.06.29-21.46.33:969][956]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.06.29-21.46.33:970][956]LogExit: Preparing to exit.
+[2023.06.29-21.46.34:018][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.06.29-21.46.34:037][956]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:037][956]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:040][956]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:041][956]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.34:041][956]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.29-21.46.35:193][956]LogExit: Editor shut down
+[2023.06.29-21.46.35:196][956]LogExit: Transaction tracking system shut down
+[2023.06.29-21.46.35:239][956]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.06.29-21.46.36:032][956]LogExit: Object subsystem successfully closed.
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: ================================================
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: RAM used: 9,53 KiB of 819,20 MiB budget. Usage: 0.00%
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 1.17 s
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 1.28
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.28 s
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Average processing rate: 1.56 jobs/sec
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Total thread time: 0,377 s
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Total thread preprocess time: 0,028 s
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Percentage time preprocessing: 7.47%
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Effective parallelization: 0.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 54.00% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 46.00% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2023.06.29-21.46.36:104][956]LogShaderCompilers: Display: ================================================
+[2023.06.29-21.46.36:133][956]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.06.29-21.46.36:524][956]LogVirtualization: UE::Virtualization was shutdown
+[2023.06.29-21.46.36:591][956]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1017)
+[2023.06.29-21.46.36:591][956]LogModuleManager: Shutting down and abandoning module Voice (1015)
+[2023.06.29-21.46.36:591][956]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1013)
+[2023.06.29-21.46.36:591][956]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2023.06.29-21.46.36:591][956]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1009)
+[2023.06.29-21.46.36:591][956]LogModuleManager: Shutting down and abandoning module SceneOutliner (1007)
+[2023.06.29-21.46.36:591][956]LogModuleManager: Shutting down and abandoning module AddContentDialog (1005)
+[2023.06.29-21.46.36:624][956]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1004)
+[2023.06.29-21.46.36:624][956]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2023.06.29-21.46.36:624][956]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2023.06.29-21.46.36:624][956]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2023.06.29-21.46.36:624][956]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module WaveTableEditor (989)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (987)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module GooglePADEditor (985)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (983)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (981)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (979)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (977)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (975)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (973)
+[2023.06.29-21.46.36:625][956]LogModuleManager: Shutting down and abandoning module WebMMedia (971)
+[2023.06.29-21.46.36:626][956]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (969)
+[2023.06.29-21.46.36:626][956]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (967)
+[2023.06.29-21.46.36:626][956]LogModuleManager: Shutting down and abandoning module SequenceRecorder (966)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (963)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (961)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (959)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (957)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (955)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (953)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (951)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module TextureAlignMode (949)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module BspMode (947)
+[2023.06.29-21.46.36:627][956]LogModuleManager: Shutting down and abandoning module GeometryMode (945)
+[2023.06.29-21.46.36:628][956]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (943)
+[2023.06.29-21.46.36:628][956]LogModuleManager: Shutting down and abandoning module SmartSnapping (941)
+[2023.06.29-21.46.36:628][956]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (939)
+[2023.06.29-21.46.36:628][956]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (937)
+[2023.06.29-21.46.36:629][956]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (935)
+[2023.06.29-21.46.36:629][956]LogModuleManager: Shutting down and abandoning module PlanarCut (933)
+[2023.06.29-21.46.36:629][956]LogModuleManager: Shutting down and abandoning module FractureEngine (931)
+[2023.06.29-21.46.36:629][956]LogModuleManager: Shutting down and abandoning module CharacterAI (929)
+[2023.06.29-21.46.36:629][956]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (927)
+[2023.06.29-21.46.36:630][956]LogModuleManager: Shutting down and abandoning module IKRigEditor (925)
+[2023.06.29-21.46.36:631][956]LogModuleManager: Shutting down and abandoning module ControlRigEditor (923)
+[2023.06.29-21.46.36:632][956]LogModuleManager: Shutting down and abandoning module SessionServices (921)
+[2023.06.29-21.46.36:633][956]LogModuleManager: Shutting down and abandoning module MeshPaint (919)
+[2023.06.29-21.46.36:634][956]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (917)
+[2023.06.29-21.46.36:634][956]LogModuleManager: Shutting down and abandoning module PlacementMode (916)
+[2023.06.29-21.46.36:635][956]LogModuleManager: Shutting down and abandoning module FoliageEdit (913)
+[2023.06.29-21.46.36:635][956]LogModuleManager: Shutting down and abandoning module LandscapeEditor (911)
+[2023.06.29-21.46.36:637][956]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (909)
+[2023.06.29-21.46.36:637][956]LogModuleManager: Shutting down and abandoning module ActorPickerMode (907)
+[2023.06.29-21.46.36:637][956]LogModuleManager: Shutting down and abandoning module ViewportSnapping (905)
+[2023.06.29-21.46.36:637][956]LogModuleManager: Shutting down and abandoning module ViewportInteraction (903)
+[2023.06.29-21.46.36:637][956]LogModuleManager: Shutting down and abandoning module ClothPainter (901)
+[2023.06.29-21.46.36:638][956]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (900)
+[2023.06.29-21.46.36:639][956]LogModuleManager: Shutting down and abandoning module LogVisualizer (897)
+[2023.06.29-21.46.36:640][956]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (895)
+[2023.06.29-21.46.36:640][956]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (893)
+[2023.06.29-21.46.36:641][956]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2023.06.29-21.46.36:641][956]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (890)
+[2023.06.29-21.46.37:321][956]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (887)
+[2023.06.29-21.46.37:321][956]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (885)
+[2023.06.29-21.46.37:321][956]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (883)
+[2023.06.29-21.46.37:321][956]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (881)
+[2023.06.29-21.46.37:321][956]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (879)
+[2023.06.29-21.46.37:322][956]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (877)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module AnimationSettings (875)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (873)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module CSVtoSVG (871)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (869)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module EditorConfig (867)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module EditorFramework (865)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (863)
+[2023.06.29-21.46.37:323][956]LogModuleManager: Shutting down and abandoning module TraceInsights (861)
+[2023.06.29-21.46.37:326][956]MemoryProfiler: Shutdown
+[2023.06.29-21.46.37:327][956]NetworkingProfiler: Shutdown
+[2023.06.29-21.46.37:327][956]LoadingProfiler: Shutdown
+[2023.06.29-21.46.37:327][956]TimingProfiler: Shutdown
+[2023.06.29-21.46.37:330][956]LogModuleManager: Shutting down and abandoning module TraceServices (860)
+[2023.06.29-21.46.37:331][956]LogModuleManager: Shutting down and abandoning module TraceAnalysis (859)
+[2023.06.29-21.46.37:331][956]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (855)
+[2023.06.29-21.46.37:331][956]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (854)
+[2023.06.29-21.46.37:331][956]LogModuleManager: Shutting down and abandoning module InputBindingEditor (851)
+[2023.06.29-21.46.37:331][956]LogModuleManager: Shutting down and abandoning module MergeActors (849)
+[2023.06.29-21.46.37:332][956]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (847)
+[2023.06.29-21.46.37:332][956]LogModuleManager: Shutting down and abandoning module LocalizationService (846)
+[2023.06.29-21.46.37:332][956]LogModuleManager: Shutting down and abandoning module HardwareTargeting (843)
+[2023.06.29-21.46.37:332][956]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (841)
+[2023.06.29-21.46.37:332][956]LogModuleManager: Shutting down and abandoning module UndoHistory (839)
+[2023.06.29-21.46.37:333][956]LogModuleManager: Shutting down and abandoning module XmlParser (837)
+[2023.06.29-21.46.37:333][956]LogModuleManager: Shutting down and abandoning module Blutility (835)
+[2023.06.29-21.46.37:333][956]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (833)
+[2023.06.29-21.46.37:333][956]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (832)
+[2023.06.29-21.46.37:333][956]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (829)
+[2023.06.29-21.46.37:333][956]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (828)
+[2023.06.29-21.46.37:333][956]LogModuleManager: Shutting down and abandoning module SettingsEditor (825)
+[2023.06.29-21.46.37:334][956]LogModuleManager: Shutting down and abandoning module ProjectLauncher (823)
+[2023.06.29-21.46.37:334][956]LogModuleManager: Shutting down and abandoning module SessionFrontend (821)
+[2023.06.29-21.46.37:334][956]LogModuleManager: Shutting down and abandoning module ProfilerClient (819)
+[2023.06.29-21.46.37:334][956]LogModuleManager: Shutting down and abandoning module DeviceManager (817)
+[2023.06.29-21.46.37:335][956]LogModuleManager: Shutting down and abandoning module AutomationController (815)
+[2023.06.29-21.46.37:335][956]LogModuleManager: Shutting down and abandoning module AutomationWindow (813)
+[2023.06.29-21.46.37:336][956]LogModuleManager: Shutting down and abandoning module Layers (811)
+[2023.06.29-21.46.37:337][956]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (809)
+[2023.06.29-21.46.37:337][956]LogModuleManager: Shutting down and abandoning module DetailCustomizations (807)
+[2023.06.29-21.46.37:337][956]LogModuleManager: Shutting down and abandoning module PackagesDialog (805)
+[2023.06.29-21.46.37:338][956]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (803)
+[2023.06.29-21.46.37:338][956]LogModuleManager: Shutting down and abandoning module Persona (801)
+[2023.06.29-21.46.37:339][956]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (800)
+[2023.06.29-21.46.37:339][956]LogModuleManager: Shutting down and abandoning module Kismet (797)
+[2023.06.29-21.46.37:357][956]LogModuleManager: Shutting down and abandoning module KismetWidgets (796)
+[2023.06.29-21.46.37:357][956]LogModuleManager: Shutting down and abandoning module GraphEditor (793)
+[2023.06.29-21.46.37:357][956]LogModuleManager: Shutting down and abandoning module StructViewer (791)
+[2023.06.29-21.46.37:358][956]LogModuleManager: Shutting down and abandoning module ClassViewer (789)
+[2023.06.29-21.46.37:362][956]LogModuleManager: Shutting down and abandoning module NaniteTools (787)
+[2023.06.29-21.46.37:362][956]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (785)
+[2023.06.29-21.46.37:376][956]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (783)
+[2023.06.29-21.46.37:376][956]LogModuleManager: Shutting down and abandoning module SourceControlWindows (781)
+[2023.06.29-21.46.37:376][956]LogModuleManager: Shutting down and abandoning module OutputLog (779)
+[2023.06.29-21.46.37:377][956]LogModuleManager: Shutting down and abandoning module Documentation (777)
+[2023.06.29-21.46.37:377][956]LogModuleManager: Shutting down and abandoning module LiveCoding (775)
+[2023.06.29-21.46.37:391][956]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (773)
+[2023.06.29-21.46.37:391][956]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (771)
+[2023.06.29-21.46.37:391][956]LogModuleManager: Shutting down and abandoning module MovieScene (769)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (767)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (765)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (763)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module AudioMixer (762)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module AudioMixerCore (761)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module LauncherPlatform (757)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module AnalyticsET (755)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module PortalServices (753)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module PortalRpc (751)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module MessagingRpc (749)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module AIModule (747)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module GameplayDebugger (746)
+[2023.06.29-21.46.37:392][956]LogModuleManager: Shutting down and abandoning module AITestSuite (744)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module NavigationSystem (742)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module DataLayerEditor (739)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (735)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (733)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module TypedElementFramework (731)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (729)
+[2023.06.29-21.46.37:393][956]LogModuleManager: Shutting down and abandoning module ProfilerService (727)
+[2023.06.29-21.46.37:560][956]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (725)
+[2023.06.29-21.46.37:561][956]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (723)
+[2023.06.29-21.46.37:561][956]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (721)
+[2023.06.29-21.46.37:561][956]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (719)
+[2023.06.29-21.46.37:562][956]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (717)
+[2023.06.29-21.46.37:562][956]LogModuleManager: Shutting down and abandoning module TakesCore (715)
+[2023.06.29-21.46.37:562][956]LogModuleManager: Shutting down and abandoning module MegascansPlugin (713)
+[2023.06.29-21.46.37:562][956]LogModuleManager: Shutting down and abandoning module Bridge (711)
+[2023.06.29-21.46.37:562][956]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (709)
+[2023.06.29-21.46.37:563][956]LogModuleManager: Shutting down and abandoning module LightMixer (707)
+[2023.06.29-21.46.37:563][956]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (705)
+[2023.06.29-21.46.37:563][956]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (703)
+[2023.06.29-21.46.37:563][956]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (701)
+[2023.06.29-21.46.37:563][956]LogModuleManager: Shutting down and abandoning module CollectionManager (700)
+[2023.06.29-21.46.37:564][956]LogModuleManager: Shutting down and abandoning module SynthesisEditor (697)
+[2023.06.29-21.46.37:564][956]LogModuleManager: Shutting down and abandoning module ResonanceAudio (695)
+[2023.06.29-21.46.37:564][956]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (693)
+[2023.06.29-21.46.37:564][956]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (691)
+[2023.06.29-21.46.37:564][956]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (689)
+[2023.06.29-21.46.37:564][956]LogModuleManager: Shutting down and abandoning module ModelingOperators (687)
+[2023.06.29-21.46.37:564][956]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (685)
+[2023.06.29-21.46.37:565][956]LogModuleManager: Shutting down and abandoning module ModelingComponents (683)
+[2023.06.29-21.46.37:565][956]LogModuleManager: Shutting down and abandoning module GeometryFramework (682)
+[2023.06.29-21.46.37:565][956]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (679)
+[2023.06.29-21.46.37:566][956]LogModuleManager: Shutting down and abandoning module MeshModelingTools (677)
+[2023.06.29-21.46.37:566][956]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (675)
+[2023.06.29-21.46.37:566][956]LogModuleManager: Shutting down and abandoning module InputDebugging (673)
+[2023.06.29-21.46.37:566][956]LogModuleManager: Shutting down and abandoning module GooglePAD (671)
+[2023.06.29-21.46.37:566][956]LogModuleManager: Shutting down and abandoning module DynamicMesh (669)
+[2023.06.29-21.46.37:566][956]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (667)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (665)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (663)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (661)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module AudioCapture (659)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (658)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module AssetTags (655)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (653)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (651)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module AppleImageUtils (649)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module AndroidPermission (647)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (645)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (643)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (641)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module MediaPlate (639)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module MediaCompositing (637)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module ImgMedia (635)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (633)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module StylusInput (631)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (629)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (627)
+[2023.06.29-21.46.37:567][956]LogModuleManager: Shutting down and abandoning module PluginBrowser (625)
+[2023.06.29-21.46.37:568][956]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (623)
+[2023.06.29-21.46.37:569][956]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (621)
+[2023.06.29-21.46.37:570][956]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (619)
+[2023.06.29-21.46.37:570][956]LogModuleManager: Shutting down and abandoning module GLTFImporter (617)
+[2023.06.29-21.46.37:570][956]LogModuleManager: Shutting down and abandoning module GLTFCore (615)
+[2023.06.29-21.46.37:570][956]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (613)
+[2023.06.29-21.46.37:570][956]LogModuleManager: Shutting down and abandoning module EditorDebugTools (611)
+[2023.06.29-21.46.37:570][956]LogModuleManager: Shutting down and abandoning module CurveEditorTools (609)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (607)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module CryptoKeys (605)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module ChangelistReview (603)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (601)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (599)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (597)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module UObjectPlugin (595)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (593)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (591)
+[2023.06.29-21.46.37:571][956]LogModuleManager: Shutting down and abandoning module Paper2DEditor (589)
+[2023.06.29-21.46.37:572][956]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (587)
+[2023.06.29-21.46.37:573][956]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (585)
+[2023.06.29-21.46.37:573][956]LogModuleManager: Shutting down and abandoning module PluginUtils (583)
+[2023.06.29-21.46.37:573][956]LogModuleManager: Shutting down and abandoning module GitSourceControl (581)
+[2023.06.29-21.46.37:573][956]LogModuleManager: Shutting down and abandoning module DumpGPUServices (579)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (577)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (575)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (573)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module InterchangeTests (571)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (569)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module SequencerScripting (567)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module TemplateSequence (565)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module AlembicImporter (563)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module AlembicLibrary (562)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module GeometryCache (561)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (560)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (555)
+[2023.06.29-21.46.37:574][956]LogModuleManager: Shutting down and abandoning module UVEditorTools (553)
+[2023.06.29-21.46.37:575][956]LogModuleManager: Shutting down and abandoning module UVEditor (551)
+[2023.06.29-21.46.37:575][956]LogModuleManager: Shutting down and abandoning module PresetAsset (549)
+[2023.06.29-21.46.37:575][956]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (547)
+[2023.06.29-21.46.37:575][956]LogOpenImageDenoise: OIDN shutting down
+[2023.06.29-21.46.37:575][956]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (545)
+[2023.06.29-21.46.37:576][956]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (543)
+[2023.06.29-21.46.37:576][956]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (541)
+[2023.06.29-21.46.37:577][956]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (539)
+[2023.06.29-21.46.37:577][956]LogModuleManager: Shutting down and abandoning module MeshLODToolset (537)
+[2023.06.29-21.46.37:577][956]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (535)
+[2023.06.29-21.46.37:577][956]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (533)
+[2023.06.29-21.46.37:577][956]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (531)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (529)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (527)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (526)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (524)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (521)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module DataflowNodes (519)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (517)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module DataflowEditor (515)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (513)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (511)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module ChaosNiagara (509)
+[2023.06.29-21.46.37:578][956]LogModuleManager: Shutting down and abandoning module FractureEditor (507)
+[2023.06.29-21.46.37:579][956]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (505)
+[2023.06.29-21.46.37:579][956]LogModuleManager: Shutting down and abandoning module BackChannel (503)
+[2023.06.29-21.46.37:580][956]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (501)
+[2023.06.29-21.46.37:580][956]LogModuleManager: Shutting down and abandoning module AutomationUtils (499)
+[2023.06.29-21.46.37:580][956]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (497)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (495)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (493)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (491)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (489)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangePipelines (487)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeExport (485)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeMessages (483)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeImport (481)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (479)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module InterchangeNodes (477)
+[2023.06.29-21.46.37:586][956]LogModuleManager: Shutting down and abandoning module VariantManager (475)
+[2023.06.29-21.46.37:587][956]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (474)
+[2023.06.29-21.46.37:587][956]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (471)
+[2023.06.29-21.46.37:587][956]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (469)
+[2023.06.29-21.46.37:587][956]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (467)
+[2023.06.29-21.46.37:588][956]LogModuleManager: Shutting down and abandoning module InterchangeEditor (465)
+[2023.06.29-21.46.37:588][956]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (463)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module TakeSequencer (461)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module TakeMovieScene (459)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module ControlRigSpline (455)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (453)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (451)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2023.06.29-21.46.37:599][956]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2023.06.29-21.46.37:600][956]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2023.06.29-21.46.37:600][956]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2023.06.29-21.46.37:600][956]LogModuleManager: Shutting down and abandoning module Synthesis (437)
+[2023.06.29-21.46.37:601][956]LogModuleManager: Shutting down and abandoning module SoundFields (435)
+[2023.06.29-21.46.37:601][956]LogModuleManager: Shutting down and abandoning module SignificanceManager (433)
+[2023.06.29-21.46.37:601][956]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (431)
+[2023.06.29-21.46.37:601][956]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (429)
+[2023.06.29-21.46.37:601][956]LogModuleManager: Shutting down and abandoning module MetasoundEditor (427)
+[2023.06.29-21.46.37:602][956]LogModuleManager: Shutting down and abandoning module AudioWidgets (426)
+[2023.06.29-21.46.37:602][956]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (425)
+[2023.06.29-21.46.37:603][956]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (421)
+[2023.06.29-21.46.37:603][956]LogModuleManager: Shutting down and abandoning module MetasoundEngine (419)
+[2023.06.29-21.46.37:603][956]LogModuleManager: Shutting down and abandoning module WaveTable (418)
+[2023.06.29-21.46.37:603][956]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (416)
+[2023.06.29-21.46.37:603][956]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (413)
+[2023.06.29-21.46.37:603][956]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (411)
+[2023.06.29-21.46.37:608][956]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (409)
+[2023.06.29-21.46.37:608][956]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (407)
+[2023.06.29-21.46.37:608][956]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (405)
+[2023.06.29-21.46.37:608][956]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (403)
+[2023.06.29-21.46.37:608][956]LogModuleManager: Shutting down and abandoning module CableComponent (401)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (399)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (398)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (395)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (393)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (391)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (389)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module FacialAnimation (387)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module DataValidation (385)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module Paper2D (383)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (381)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module TreeMap (380)
+[2023.06.29-21.46.37:609][956]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (377)
+[2023.06.29-21.46.37:610][956]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (375)
+[2023.06.29-21.46.37:610][956]LogModuleManager: Shutting down and abandoning module AnimationSharing (373)
+[2023.06.29-21.46.37:610][956]LogModuleManager: Shutting down and abandoning module ActorSequence (371)
+[2023.06.29-21.46.37:610][956]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (369)
+[2023.06.29-21.46.37:701][956]LogModuleManager: Shutting down and abandoning module PBIK (367)
+[2023.06.29-21.46.37:701][956]LogModuleManager: Shutting down and abandoning module FullBodyIK (365)
+[2023.06.29-21.46.37:701][956]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (363)
+[2023.06.29-21.46.37:701][956]LogModuleManager: Shutting down and abandoning module TakeRecorder (362)
+[2023.06.29-21.46.37:702][956]LogModuleManager: Shutting down and abandoning module LevelEditor (360)
+[2023.06.29-21.46.37:732][956]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (359)
+[2023.06.29-21.46.37:732][956]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (357)
+[2023.06.29-21.46.37:733][956]LogModuleManager: Shutting down and abandoning module MainFrame (355)
+[2023.06.29-21.46.37:733][956]LogModuleManager: Shutting down and abandoning module HotReload (354)
+[2023.06.29-21.46.37:733][956]LogModuleManager: Shutting down and abandoning module ChaosCaching (349)
+[2023.06.29-21.46.37:733][956]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (347)
+[2023.06.29-21.46.37:733][956]LogModuleManager: Shutting down and abandoning module Niagara (345)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module SignalProcessing (344)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module NiagaraEditor (342)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module ContentBrowser (341)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module ToolMenus (340)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module ContentBrowserData (338)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module NiagaraCore (333)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module GameplayCameras (331)
+[2023.06.29-21.46.37:734][956]LogModuleManager: Shutting down and abandoning module UdpMessaging (329)
+[2023.06.29-21.46.37:835][956]LogModuleManager: Shutting down and abandoning module TcpMessaging (327)
+[2023.06.29-21.46.37:936][956]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (325)
+[2023.06.29-21.46.37:936][956]LogModuleManager: Shutting down and abandoning module IKRig (323)
+[2023.06.29-21.46.37:936][956]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (321)
+[2023.06.29-21.46.37:936][956]LogModuleManager: Shutting down and abandoning module ControlRig (319)
+[2023.06.29-21.46.37:936][956]LogModuleManager: Shutting down and abandoning module Constraints (318)
+[2023.06.29-21.46.37:936][956]LogModuleManager: Shutting down and abandoning module LevelSequence (316)
+[2023.06.29-21.46.37:936][956]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (313)
+[2023.06.29-21.46.37:937][956]LogModuleManager: Shutting down and abandoning module AnimationData (311)
+[2023.06.29-21.46.37:937][956]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2023.06.29-21.46.37:937][956]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2023.06.29-21.46.37:937][956]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2023.06.29-21.46.37:960][956]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2023.06.29-21.46.37:960][956]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2023.06.29-21.46.37:960][956]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2023.06.29-21.46.37:960][956]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2023.06.29-21.46.37:960][956]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2023.06.29-21.46.37:960][956]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2023.06.29-21.46.37:961][956]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2023.06.29-21.46.37:962][956]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2023.06.29-21.46.37:962][956]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2023.06.29-21.46.37:962][956]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2023.06.29-21.46.37:962][956]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2023.06.29-21.46.37:963][956]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2023.06.29-21.46.37:964][956]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2023.06.29-21.46.37:964][956]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2023.06.29-21.46.37:964][956]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2023.06.29-21.46.37:964][956]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2023.06.29-21.46.37:966][956]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2023.06.29-21.46.37:966][956]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module Core (233)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2023.06.29-21.46.37:967][956]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2023.06.29-21.46.37:968][956]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2023.06.29-21.46.37:968][956]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2023.06.29-21.46.37:968][956]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2023.06.29-21.46.37:968][956]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2023.06.29-21.46.37:969][956]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2023.06.29-21.46.37:969][956]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2023.06.29-21.46.37:969][956]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2023.06.29-21.46.37:970][956]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2023.06.29-21.46.37:970][956]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2023.06.29-21.46.37:970][956]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2023.06.29-21.46.37:970][956]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2023.06.29-21.46.37:971][956]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2023.06.29-21.46.37:971][956]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2023.06.29-21.46.37:972][956]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2023.06.29-21.46.37:982][956]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2023.06.29-21.46.37:982][956]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2023.06.29-21.46.37:982][956]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.06.29-21.46.38:009][956]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.06.29-21.46.38:009][956]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.06.29-21.46.38:009][956]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.06.29-21.46.38:009][956]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2023.06.29-21.46.38:010][956]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2023.06.29-21.46.38:011][956]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (116)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (114)
+[2023.06.29-21.46.38:014][956]LogModuleManager: Shutting down and abandoning module ChunkDownloader (112)
+[2023.06.29-21.46.38:015][956]LogModuleManager: Shutting down and abandoning module WmfMedia (110)
+[2023.06.29-21.46.38:017][956]LogModuleManager: Shutting down and abandoning module Media (109)
+[2023.06.29-21.46.38:018][956]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (106)
+[2023.06.29-21.46.38:018][956]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (104)
+[2023.06.29-21.46.38:018][956]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (102)
+[2023.06.29-21.46.38:018][956]RenderDocPlugin: plugin has been unloaded.
+[2023.06.29-21.46.38:018][956]LogModuleManager: Shutting down and abandoning module PixWinPlugin (100)
+[2023.06.29-21.46.38:018][956]LogModuleManager: Shutting down and abandoning module ChaosCloth (98)
+[2023.06.29-21.46.38:019][956]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (96)
+[2023.06.29-21.46.38:019][956]LogModuleManager: Shutting down and abandoning module NiagaraShader (94)
+[2023.06.29-21.46.38:019][956]LogModuleManager: Shutting down and abandoning module VariantManagerContent (92)
+[2023.06.29-21.46.38:019][956]LogModuleManager: Shutting down and abandoning module GLTFExporter (90)
+[2023.06.29-21.46.38:019][956]LogModuleManager: Shutting down and abandoning module DatasmithContent (88)
+[2023.06.29-21.46.38:020][956]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (86)
+[2023.06.29-21.46.38:020][956]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (84)
+[2023.06.29-21.46.38:020][956]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2023.06.29-21.46.38:021][956]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2023.06.29-21.46.38:022][956]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2023.06.29-21.46.38:053][956]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2023.06.29-21.46.38:053][956]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.06.29-21.46.38:053][956]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B981EDC15-4D1A-A752-9C4B-E99C365F4D02%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=2d7c32904d6e2a7e2de647a2c0fd953c%7C9505c50244c1472891a4a7abe02a952d%7Cd522fb9d-7b5f-447f-9901-46ed410e6d65&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.06.29-21.46.38:088][956]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2023.06.29-21.46.38:090][956]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (68)
+[2023.06.29-21.46.38:090][956]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (66)
+[2023.06.29-21.46.38:091][956]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (64)
+[2023.06.29-21.46.38:091][956]LogModuleManager: Shutting down and abandoning module AISupportModule (62)
+[2023.06.29-21.46.38:091][956]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2023.06.29-21.46.38:091][956]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (58)
+[2023.06.29-21.46.38:092][956]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.06.29-21.46.38:092][956]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.06.29-21.46.38:093][956]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.06.29-21.46.38:093][956]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.06.29-21.46.38:093][956]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.06.29-21.46.38:093][956]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.06.29-21.46.38:093][956]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.06.29-21.46.38:093][956]LogXGEController: Cleaning working directory: C:/Users/carlb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.06.29-21.46.38:093][956]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.06.29-21.46.38:094][956]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.06.29-21.46.38:094][956]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.06.29-21.46.38:095][956]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.06.29-21.46.38:095][956]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.06.29-21.46.38:095][956]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.06.29-21.46.38:095][956]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.06.29-21.46.38:096][956]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.06.29-21.46.38:096][956]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.06.29-21.46.38:096][956]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.06.29-21.46.38:098][956]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.06.29-21.46.38:098][956]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.06.29-21.46.38:098][956]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.06.29-21.46.38:098][956]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.06.29-21.46.38:099][956]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.06.29-21.46.38:099][956]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.06.29-21.46.38:099][956]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.06.29-21.46.38:099][956]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.06.29-21.46.38:099][956]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.06.29-21.46.38:099][956]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.06.29-21.46.38:099][956]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.06.29-21.46.38:313][956]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.06.29-21.46.38:335][956]LogExit: Exiting.
+[2023.06.29-21.46.38:342][956]Log file closed, 06/29/23 23:46:38
