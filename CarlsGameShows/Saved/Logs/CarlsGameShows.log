@@ -2064,3 +2064,788 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.30-08.42.09:741][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2023.06.30-08.42.09:747][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2023.06.30-08.42.09:776][553]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.06.30-08.47.14:498][282]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.47.14:498][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.47.14:510][282]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.47.14:510][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.47.15:033][310]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.47.15:033][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.47.15:041][310]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.47.15:041][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.47.15:084][310]LogViewport: Scene viewport resized to 1450x556, mode Windowed.
+[2023.06.30-08.47.15:093][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.47.15:109][311]LogViewport: Scene viewport resized to 1450x550, mode Windowed.
+[2023.06.30-08.47.15:255][312]LogViewport: Scene viewport resized to 1450x540, mode Windowed.
+[2023.06.30-08.47.16:338][376]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.47.16:338][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.47.16:345][376]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.47.16:345][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.47.16:382][376]LogViewport: Scene viewport resized to 1450x557, mode Windowed.
+[2023.06.30-08.47.16:406][377]LogViewport: Scene viewport resized to 1450x552, mode Windowed.
+[2023.06.30-08.47.16:424][378]LogViewport: Scene viewport resized to 1450x548, mode Windowed.
+[2023.06.30-08.47.16:442][379]LogViewport: Scene viewport resized to 1450x543, mode Windowed.
+[2023.06.30-08.47.16:458][380]LogViewport: Scene viewport resized to 1450x540, mode Windowed.
+[2023.06.30-08.47.40:029][791]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WB_MainMenu.WB_MainMenu
+[2023.06.30-08.47.40:030][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.47.40:030][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.47.40:040][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.47.40:040][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.47.55:668][718]BlueprintLog: New page: Compile WB_MainMenu
+[2023.06.30-08.47.55:722][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.06.30-08.48.00:693][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.48.00:727][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_MainMenu" FILE="../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/WB_MainMenu.uasset" SILENT=true
+[2023.06.30-08.48.00:734][ 12]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_MainMenu
+[2023.06.30-08.48.00:734][ 12]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_MainMenu1A78C1D84954FE0D784CD3A8BC37FA02.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/WB_MainMenu.uasset'
+[2023.06.30-08.48.00:741][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.05 sec)
+[2023.06.30-08.48.00:747][ 12]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.06.30-08.48.00:747][ 12]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_MainMenu.WB_MainMenu
+[2023.06.30-08.48.16:819][973]BlueprintLog: New page: Compile WB_NerdQuizParent
+[2023.06.30-08.48.16:871][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.30-08.48.17:364][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.48.17:399][998]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizParent
+[2023.06.30-08.48.17:399][998]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizParentF333EFBB406ACC1F77BCF69B48476FB3.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizParent.uasset'
+[2023.06.30-08.48.17:408][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.09 sec)
+[2023.06.30-08.48.17:413][998]AssetCheck: New page: Asset Save: WB_NerdQuizParent
+[2023.06.30-08.48.17:413][998]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizParent.WB_NerdQuizParent
+[2023.06.30-08.48.19:305][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-08.48.19:312][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-08.48.19:312][112]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 12:48:19)
+[2023.06.30-08.48.19:312][112]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.48.19:313][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001300s)
+[2023.06.30-08.48.19:313][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001337s)
+[2023.06.30-08.48.19:313][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.48.19:314][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.48.19:314][112]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-08.48.19:314][112]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2023.06.30-08.48.19:336][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.30-08.48.19:340][112]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.30-08.48.19:340][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-08.48.19:340][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-08.48.19:340][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-08.48.19:340][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-08.48.19:340][112]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-08.48.19:340][112]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-08.48.19:340][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-08.48.19:340][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-08.48.19:341][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-08.48.19:341][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-08.48.19:341][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-08.48.19:344][112]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-08.48.19:356][112]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-08.48.19:356][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-08.48.19:356][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-08.48.19:356][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-08.48.19:358][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.06.30-08.48.19:358][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.06.30-08.48.19:359][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.06.30-08.48.19:359][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.06.30-08.48.19:360][112]LogInit: FAudioDevice initialized with ID 9.
+[2023.06.30-08.48.19:360][112]LogAudio: Display: Audio Device (ID: 9) registered with world 'GameShowWorld'.
+[2023.06.30-08.48.19:360][112]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.06.30-08.48.19:388][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.48.19:388][112]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-08.48.19:388][112]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-10.48.19
+[2023.06.30-08.48.19:389][112]LogWorld: Bringing up level for play took: 0.000547
+[2023.06.30-08.48.19:392][112]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.06.30-08.48.19:392][112]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-08.48.19:393][112]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-08.48.19:393][112]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-08.48.19:393][112]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-08.48.19:395][112]PIE: Server logged in
+[2023.06.30-08.48.19:396][112]PIE: Play in editor total start time 0,084 seconds.
+[2023.06.30-08.48.19:403][112]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-08.48.28:497][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.48.28:497][649]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.48.28:497][649]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-08.48.28:506][649]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.48.28:506][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.48.28:509][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-08.48.28:514][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.48.28:536][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-08.48.28:536][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.06.30-08.48.28:537][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.30-08.48.28:539][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.30-08.48.28:543][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.30-08.48.28:575][651]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.06.30-08.48.29:675][717]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-08.48.29:681][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-08.48.29:681][717]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 12:48:29)
+[2023.06.30-08.48.29:681][717]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.48.29:683][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001355s)
+[2023.06.30-08.48.29:683][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001403s)
+[2023.06.30-08.48.29:683][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.48.29:683][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.48.29:683][717]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-08.48.29:684][717]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2023.06.30-08.48.29:705][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.06.30-08.48.29:707][717]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.30-08.48.29:707][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-08.48.29:707][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-08.48.29:707][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-08.48.29:707][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-08.48.29:707][717]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-08.48.29:707][717]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-08.48.29:707][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-08.48.29:707][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-08.48.29:707][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-08.48.29:707][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-08.48.29:707][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-08.48.29:709][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-08.48.29:723][717]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-08.48.29:723][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-08.48.29:723][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-08.48.29:723][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-08.48.29:723][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.06.30-08.48.29:723][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.06.30-08.48.29:726][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.06.30-08.48.29:726][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.06.30-08.48.29:726][717]LogInit: FAudioDevice initialized with ID 10.
+[2023.06.30-08.48.29:726][717]LogAudio: Display: Audio Device (ID: 10) registered with world 'GameShowWorld'.
+[2023.06.30-08.48.29:726][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.06.30-08.48.29:764][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.48.29:764][717]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-08.48.29:765][717]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-10.48.29
+[2023.06.30-08.48.29:765][717]LogWorld: Bringing up level for play took: 0.000601
+[2023.06.30-08.48.29:767][717]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.06.30-08.48.29:768][717]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-08.48.29:769][717]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-08.48.29:769][717]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-08.48.29:769][717]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-08.48.29:771][717]PIE: Server logged in
+[2023.06.30-08.48.29:771][717]PIE: Play in editor total start time 0,09 seconds.
+[2023.06.30-08.48.29:777][717]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-08.48.42:096][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.48.42:096][448]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.48.42:097][448]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-08.48.42:106][448]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.48.42:107][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.48.42:109][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-08.48.42:114][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.48.42:138][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-08.48.42:138][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.06.30-08.48.42:138][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.30-08.48.42:141][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.30-08.48.42:147][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.06.30-08.48.42:162][449]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.06.30-08.49.11:994][146]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdquizWall.WB_NerdquizWall
+[2023.06.30-08.49.11:994][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.49.11:994][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.49.12:012][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.49.12:013][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.49.55:763][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.49.55:813][753]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-08.49.55:814][753]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyB1C10A2D49F866DF05F3809F3879D48D.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-08.49.55:821][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.15 sec)
+[2023.06.30-08.49.55:828][753]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-08.49.55:828][753]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.30-08.50.51:515][ 86]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-08.50.51:691][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.30-08.50.52:697][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.50.52:745][136]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-08.50.52:745][136]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody294FB52F4055DA60E863B295A5CD3A50.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-08.50.52:753][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.21 sec)
+[2023.06.30-08.50.52:759][136]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-08.50.52:759][136]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.30-08.50.53:156][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:186][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-08.50.54:193][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-08.50.54:193][222]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 12:50:54)
+[2023.06.30-08.50.54:193][222]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.50.54:194][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001357s)
+[2023.06.30-08.50.54:194][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001400s)
+[2023.06.30-08.50.54:194][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.50.54:194][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.50.54:195][222]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-08.50.54:195][222]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2023.06.30-08.50.54:217][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.30-08.50.54:221][222]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.06.30-08.50.54:221][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-08.50.54:221][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-08.50.54:221][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-08.50.54:221][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-08.50.54:221][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-08.50.54:221][222]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-08.50.54:221][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-08.50.54:221][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-08.50.54:222][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-08.50.54:222][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-08.50.54:222][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-08.50.54:224][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-08.50.54:240][222]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-08.50.54:240][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-08.50.54:240][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-08.50.54:240][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-08.50.54:240][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.06.30-08.50.54:240][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.06.30-08.50.54:243][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.06.30-08.50.54:243][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.06.30-08.50.54:243][222]LogInit: FAudioDevice initialized with ID 11.
+[2023.06.30-08.50.54:243][222]LogAudio: Display: Audio Device (ID: 11) registered with world 'GameShowWorld'.
+[2023.06.30-08.50.54:243][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.06.30-08.50.54:250][222]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-08.50.54:250][222]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-10.50.54
+[2023.06.30-08.50.54:251][222]LogWorld: Bringing up level for play took: 0.000302
+[2023.06.30-08.50.54:252][222]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.06.30-08.50.54:254][222]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-08.50.54:254][222]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-08.50.54:254][222]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-08.50.54:254][222]PIE: Server logged in
+[2023.06.30-08.50.54:255][222]PIE: Play in editor total start time 0,062 seconds.
+[2023.06.30-08.50.54:273][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:273][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:273][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:274][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:274][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:274][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:275][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:275][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:275][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:276][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:276][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.54:276][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.58:715][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.50.58:715][486]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.50.58:715][486]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.50.58:716][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.50.58:718][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-08.50.58:724][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.50.58:747][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-08.50.58:747][486]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.06.30-08.50.58:747][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.06.30-08.50.58:749][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.06.30-08.50.58:752][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.50.58:755][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.06.30-08.50.58:768][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.50.58:788][488]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.06.30-08.51.32:481][444]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-08.51.32:592][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.30-08.51.34:213][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-08.51.34:219][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-08.51.34:219][531]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 12:51:34)
+[2023.06.30-08.51.34:219][531]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.51.34:220][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001326s)
+[2023.06.30-08.51.34:221][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001361s)
+[2023.06.30-08.51.34:221][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.51.34:221][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.51.34:221][531]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-08.51.34:221][531]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2023.06.30-08.51.34:242][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.30-08.51.34:246][531]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.06.30-08.51.34:246][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-08.51.34:246][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-08.51.34:246][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-08.51.34:246][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-08.51.34:246][531]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-08.51.34:246][531]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-08.51.34:246][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-08.51.34:246][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-08.51.34:247][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-08.51.34:247][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-08.51.34:247][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-08.51.34:249][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-08.51.34:261][531]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-08.51.34:262][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-08.51.34:262][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-08.51.34:262][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-08.51.34:264][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.06.30-08.51.34:264][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.06.30-08.51.34:265][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.06.30-08.51.34:265][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.06.30-08.51.34:265][531]LogInit: FAudioDevice initialized with ID 12.
+[2023.06.30-08.51.34:265][531]LogAudio: Display: Audio Device (ID: 12) registered with world 'GameShowWorld'.
+[2023.06.30-08.51.34:265][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.06.30-08.51.34:304][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.51.34:304][531]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-08.51.34:305][531]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-10.51.34
+[2023.06.30-08.51.34:305][531]LogWorld: Bringing up level for play took: 0.000400
+[2023.06.30-08.51.34:308][531]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.06.30-08.51.34:308][531]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-08.51.34:309][531]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-08.51.34:309][531]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-08.51.34:309][531]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-08.51.34:312][531]PIE: Server logged in
+[2023.06.30-08.51.34:314][531]PIE: Play in editor total start time 0,095 seconds.
+[2023.06.30-08.51.34:324][531]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-08.51.38:856][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.51.38:856][790]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.51.38:856][790]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-08.51.38:865][790]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.51.38:865][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.51.38:869][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-08.51.38:874][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.51.38:897][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-08.51.38:899][790]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.06.30-08.51.38:899][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.06.30-08.51.38:901][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.06.30-08.51.38:907][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.06.30-08.51.38:923][791]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.06.30-08.51.56:792][851]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-08.51.56:900][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.30-08.51.58:099][912]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-08.51.58:106][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-08.51.58:106][912]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 12:51:58)
+[2023.06.30-08.51.58:106][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.51.58:107][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001310s)
+[2023.06.30-08.51.58:107][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001342s)
+[2023.06.30-08.51.58:107][912]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.51.58:107][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.51.58:108][912]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-08.51.58:109][912]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2023.06.30-08.51.58:131][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.30-08.51.58:134][912]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.06.30-08.51.58:134][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-08.51.58:134][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-08.51.58:134][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-08.51.58:134][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-08.51.58:134][912]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-08.51.58:134][912]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-08.51.58:134][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-08.51.58:134][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-08.51.58:135][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-08.51.58:135][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-08.51.58:135][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-08.51.58:137][912]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-08.51.58:151][912]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-08.51.58:151][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-08.51.58:151][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-08.51.58:151][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-08.51.58:152][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.06.30-08.51.58:152][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.06.30-08.51.58:154][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.06.30-08.51.58:154][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.06.30-08.51.58:154][912]LogInit: FAudioDevice initialized with ID 13.
+[2023.06.30-08.51.58:154][912]LogAudio: Display: Audio Device (ID: 13) registered with world 'GameShowWorld'.
+[2023.06.30-08.51.58:154][912]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.06.30-08.51.58:183][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.51.58:183][912]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-08.51.58:184][912]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-10.51.58
+[2023.06.30-08.51.58:184][912]LogWorld: Bringing up level for play took: 0.000393
+[2023.06.30-08.51.58:186][912]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.06.30-08.51.58:186][912]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-08.51.58:188][912]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-08.51.58:188][912]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-08.51.58:188][912]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-08.51.58:191][912]PIE: Server logged in
+[2023.06.30-08.51.58:193][912]PIE: Play in editor total start time 0,087 seconds.
+[2023.06.30-08.51.58:202][912]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-08.52.02:171][141]LogScript: Warning: Accessed None trying to read property CallFunc_GetParent_ReturnValue_1
+	WB_NerdQuizBody_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0.WidgetTree_0.WB_NerdQuizBody_C_1
+	Function /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody_C:ExecuteUbergraph_WB_NerdQuizBody:0173
+[2023.06.30-08.52.02:171][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetParent_ReturnValue_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph WB Nerd Quiz Body Blueprint:  WB_NerdQuizBody
+[2023.06.30-08.52.02:171][141]LogScript: Warning: Accessed None trying to read property CallFunc_GetParent_ReturnValue_1
+	WB_NerdQuizBody_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0.WidgetTree_0.WB_NerdQuizBody_C_2
+	Function /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody_C:ExecuteUbergraph_WB_NerdQuizBody:0173
+[2023.06.30-08.52.02:171][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetParent_ReturnValue_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph WB Nerd Quiz Body Blueprint:  WB_NerdQuizBody
+[2023.06.30-08.52.02:171][141]LogScript: Warning: Accessed None trying to read property CallFunc_GetParent_ReturnValue_1
+	WB_NerdQuizBody_C /Engine/Transient.UnrealEdEngine_0:GameInstance_11.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0.WidgetTree_0.WB_NerdQuizBody_C_3
+	Function /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody_C:ExecuteUbergraph_WB_NerdQuizBody:0173
+[2023.06.30-08.52.02:171][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetParent_ReturnValue_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph WB Nerd Quiz Body Blueprint:  WB_NerdQuizBody
+[2023.06.30-08.52.03:786][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.52.03:786][236]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.52.03:787][236]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-08.52.03:795][236]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.52.03:795][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.52.03:798][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-08.52.03:803][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.52.03:826][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-08.52.03:826][236]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.06.30-08.52.03:826][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.06.30-08.52.03:830][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.06.30-08.52.03:836][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.06.30-08.52.03:908][237]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.06.30-08.52.07:045][418]LogSlate: Window 'Message Log' being destroyed
+[2023.06.30-08.52.07:055][418]LogSlate: Window 'Message Log' being destroyed
+[2023.06.30-08.52.15:768][941]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-08.52.15:880][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.30-08.52.16:360][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.52.16:410][961]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-08.52.16:410][961]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody2FBB4766484382DF819037A9C818474E.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-08.52.16:420][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.27 sec)
+[2023.06.30-08.52.16:426][961]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-08.52.16:426][961]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.30-08.52.43:270][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.52.43:319][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_MainMenu" FILE="../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/WB_MainMenu.uasset" SILENT=true
+[2023.06.30-08.52.43:325][572]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_MainMenu
+[2023.06.30-08.52.43:326][572]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_MainMenuB22EDFD24F4303159B95D8846DF49E6F.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/WB_MainMenu.uasset'
+[2023.06.30-08.52.43:334][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.33 sec)
+[2023.06.30-08.52.43:340][572]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.06.30-08.52.43:340][572]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_MainMenu.WB_MainMenu
+[2023.06.30-08.53.04:052][815]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.30-08.55.03:672][959]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-08.55.03:819][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.06.30-08.55.04:408][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.55.04:458][983]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-08.55.04:459][983]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody867EFDA54E97C667E2E6CAB55DD7ED49.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-08.55.04:470][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.39 sec)
+[2023.06.30-08.55.04:476][983]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-08.55.04:476][983]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.30-08.55.48:812][596]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-08.55.48:958][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.30-08.56.09:598][734]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.06.30-08.56.11:992][851]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.30-08.56.11:999][851]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.30-08.56.19:458][293]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-08.56.19:583][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.30-08.56.20:212][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.56.20:262][320]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-08.56.20:262][320]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody4844CD68417884DDE512978DB4496BE5.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-08.56.20:273][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.45 sec)
+[2023.06.30-08.56.20:278][320]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-08.56.20:278][320]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.30-08.57.31:476][296]BlueprintLog: New page: Compile WB_NerdquizWall
+[2023.06.30-08.57.31:577][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.06.30-08.57.32:010][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.57.32:079][311]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdquizWall
+[2023.06.30-08.57.32:079][311]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdquizWall61FFEB5043FF622E5AB1B291DAA26E99.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdquizWall.uasset'
+[2023.06.30-08.57.32:087][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.53 sec)
+[2023.06.30-08.57.32:093][311]AssetCheck: New page: Asset Save: WB_NerdquizWall
+[2023.06.30-08.57.32:093][311]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdquizWall.WB_NerdquizWall
+[2023.06.30-08.57.33:570][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-08.57.33:576][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-08.57.33:576][397]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 12:57:33)
+[2023.06.30-08.57.33:576][397]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.57.33:578][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001471s)
+[2023.06.30-08.57.33:578][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001507s)
+[2023.06.30-08.57.33:578][397]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.57.33:578][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.57.33:578][397]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-08.57.33:579][397]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2023.06.30-08.57.33:602][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.06.30-08.57.33:605][397]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.06.30-08.57.33:605][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-08.57.33:605][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-08.57.33:605][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-08.57.33:605][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-08.57.33:605][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-08.57.33:605][397]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-08.57.33:605][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-08.57.33:605][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-08.57.33:606][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-08.57.33:606][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-08.57.33:606][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-08.57.33:608][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-08.57.33:621][397]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-08.57.33:622][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-08.57.33:622][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-08.57.33:622][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-08.57.33:622][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.06.30-08.57.33:622][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.06.30-08.57.33:625][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.06.30-08.57.33:625][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.06.30-08.57.33:625][397]LogInit: FAudioDevice initialized with ID 14.
+[2023.06.30-08.57.33:625][397]LogAudio: Display: Audio Device (ID: 14) registered with world 'GameShowWorld'.
+[2023.06.30-08.57.33:625][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.06.30-08.57.33:653][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.57.33:653][397]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-08.57.33:653][397]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-10.57.33
+[2023.06.30-08.57.33:654][397]LogWorld: Bringing up level for play took: 0.000439
+[2023.06.30-08.57.33:657][397]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.06.30-08.57.33:657][397]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-08.57.33:659][397]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-08.57.33:659][397]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-08.57.33:659][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-08.57.33:663][397]PIE: Server logged in
+[2023.06.30-08.57.33:666][397]PIE: Play in editor total start time 0,09 seconds.
+[2023.06.30-08.57.33:679][397]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-08.57.35:911][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_12.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.57.35:911][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_12.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.57.35:911][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_12.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.57.42:677][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_12.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_1.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.57.42:677][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_12.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_1.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.57.42:677][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_12.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_1.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.57.49:675][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.57.49:675][345]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.57.49:675][345]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-08.57.49:685][345]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.57.49:685][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.57.49:687][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-08.57.49:693][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.57.49:718][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-08.57.49:718][345]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.06.30-08.57.49:718][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.06.30-08.57.49:720][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.06.30-08.57.49:727][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.30-08.57.49:744][346]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.06.30-08.58.04:488][230]BlueprintLog: New page: Compile WB_NerdQuizParent
+[2023.06.30-08.58.04:535][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.30-08.58.06:124][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-08.58.06:162][320]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizParent
+[2023.06.30-08.58.06:162][320]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizParent9378E7944805E7C1F469B7A9F7487ED7.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizParent.uasset'
+[2023.06.30-08.58.06:170][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.58 sec)
+[2023.06.30-08.58.06:176][320]AssetCheck: New page: Asset Save: WB_NerdQuizParent
+[2023.06.30-08.58.06:176][320]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizParent.WB_NerdQuizParent
+[2023.06.30-08.58.07:584][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-08.58.07:590][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-08.58.07:590][405]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 12:58:07)
+[2023.06.30-08.58.07:590][405]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.58.07:592][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001391s)
+[2023.06.30-08.58.07:592][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001430s)
+[2023.06.30-08.58.07:592][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-08.58.07:592][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-08.58.07:592][405]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-08.58.07:592][405]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2023.06.30-08.58.07:614][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.06.30-08.58.07:617][405]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.06.30-08.58.07:617][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-08.58.07:617][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-08.58.07:617][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-08.58.07:617][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-08.58.07:617][405]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-08.58.07:617][405]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-08.58.07:617][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-08.58.07:617][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-08.58.07:618][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-08.58.07:618][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-08.58.07:618][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-08.58.07:620][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-08.58.07:633][405]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-08.58.07:634][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-08.58.07:634][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-08.58.07:634][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-08.58.07:634][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.06.30-08.58.07:634][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.06.30-08.58.07:636][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.06.30-08.58.07:636][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.06.30-08.58.07:636][405]LogInit: FAudioDevice initialized with ID 15.
+[2023.06.30-08.58.07:636][405]LogAudio: Display: Audio Device (ID: 15) registered with world 'GameShowWorld'.
+[2023.06.30-08.58.07:636][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.06.30-08.58.07:665][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.58.07:665][405]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-08.58.07:665][405]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-10.58.07
+[2023.06.30-08.58.07:666][405]LogWorld: Bringing up level for play took: 0.000430
+[2023.06.30-08.58.07:668][405]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.06.30-08.58.07:668][405]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-08.58.07:671][405]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-08.58.07:671][405]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-08.58.07:671][405]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-08.58.07:672][405]PIE: Server logged in
+[2023.06.30-08.58.07:673][405]PIE: Play in editor total start time 0,082 seconds.
+[2023.06.30-08.58.07:678][405]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-08.58.09:539][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_13.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.58.09:539][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_13.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.58.09:539][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_13.WB_MainMenu_C_0.WidgetTree_0.WB_NerdQuizParent_C_0.WidgetTree_0.WB_WallStarWars1_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.06.30-08.58.15:724][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-08.58.15:724][876]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-08.58.15:725][876]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-08.58.15:734][876]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-08.58.15:734][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.58.15:736][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-08.58.15:741][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-08.58.15:764][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-08.58.15:765][876]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.06.30-08.58.15:765][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.06.30-08.58.15:768][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.06.30-08.58.15:774][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.06.30-08.58.15:805][878]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.06.30-09.00.22:237][428]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-09.00.22:364][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.30-09.00.22:820][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.00.22:869][446]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-09.00.22:870][446]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBody3E56D2344AC6A96B2CC8FA97F1402D18.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-09.00.22:878][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.63 sec)
+[2023.06.30-09.00.22:884][446]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-09.00.22:884][446]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.30-09.00.51:900][111]BlueprintLog: New page: Compile WB_NerdquizWall
+[2023.06.30-09.00.51:973][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.06.30-09.00.52:843][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.00.52:922][151]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdquizWall
+[2023.06.30-09.00.52:923][151]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdquizWallF2FF5B714140AD254455E8841AFC2048.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdquizWall.uasset'
+[2023.06.30-09.00.52:932][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.72 sec)
+[2023.06.30-09.00.52:937][151]AssetCheck: New page: Asset Save: WB_NerdquizWall
+[2023.06.30-09.00.52:937][151]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdquizWall.WB_NerdquizWall
+[2023.06.30-09.01.00:008][515]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-09.01.00:165][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.06.30-09.01.01:445][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.01.01:498][581]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-09.01.01:499][581]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyEFAE520E4E645314B347D68945F9FE67.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-09.01.01:508][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.79 sec)
+[2023.06.30-09.01.01:514][581]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-09.01.01:514][581]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
+[2023.06.30-09.01.02:557][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-09.01.02:563][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-09.01.02:563][644]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 13:01:02)
+[2023.06.30-09.01.02:564][644]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-09.01.02:565][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001435s)
+[2023.06.30-09.01.02:565][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001476s)
+[2023.06.30-09.01.02:565][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-09.01.02:565][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-09.01.02:566][644]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-09.01.02:566][644]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2023.06.30-09.01.02:586][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.06.30-09.01.02:590][644]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.06.30-09.01.02:590][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-09.01.02:590][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-09.01.02:590][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-09.01.02:590][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-09.01.02:590][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-09.01.02:590][644]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-09.01.02:590][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-09.01.02:590][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-09.01.02:591][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-09.01.02:591][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-09.01.02:591][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-09.01.02:594][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-09.01.02:608][644]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-09.01.02:608][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-09.01.02:608][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-09.01.02:608][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-09.01.02:609][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.06.30-09.01.02:609][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.06.30-09.01.02:611][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.06.30-09.01.02:611][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.06.30-09.01.02:611][644]LogInit: FAudioDevice initialized with ID 16.
+[2023.06.30-09.01.02:611][644]LogAudio: Display: Audio Device (ID: 16) registered with world 'GameShowWorld'.
+[2023.06.30-09.01.02:611][644]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.06.30-09.01.02:644][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-09.01.02:644][644]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-09.01.02:645][644]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-11.01.02
+[2023.06.30-09.01.02:645][644]LogWorld: Bringing up level for play took: 0.000501
+[2023.06.30-09.01.02:647][644]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.06.30-09.01.02:647][644]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-09.01.02:649][644]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-09.01.02:649][644]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-09.01.02:649][644]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-09.01.02:651][644]PIE: Server logged in
+[2023.06.30-09.01.02:652][644]PIE: Play in editor total start time 0,09 seconds.
+[2023.06.30-09.01.02:664][644]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-09.01.14:324][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-09.01.14:324][328]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-09.01.14:325][328]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-09.01.14:335][328]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-09.01.14:335][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.01.14:338][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-09.01.14:342][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.01.14:367][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-09.01.14:368][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.06.30-09.01.14:368][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.06.30-09.01.14:370][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.06.30-09.01.14:376][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.30-09.01.14:394][329]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.06.30-09.01.47:928][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-09.01.47:934][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-09.01.47:934][340]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 13:01:47)
+[2023.06.30-09.01.47:934][340]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-09.01.47:936][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001399s)
+[2023.06.30-09.01.47:936][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001434s)
+[2023.06.30-09.01.47:936][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-09.01.47:936][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-09.01.47:936][340]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-09.01.47:937][340]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2023.06.30-09.01.47:958][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.06.30-09.01.47:960][340]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.06.30-09.01.47:960][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-09.01.47:960][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-09.01.47:960][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-09.01.47:960][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-09.01.47:960][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-09.01.47:960][340]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-09.01.47:960][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-09.01.47:960][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-09.01.47:961][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-09.01.47:961][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-09.01.47:961][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-09.01.47:963][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-09.01.47:976][340]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-09.01.47:977][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-09.01.47:977][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-09.01.47:977][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-09.01.47:978][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.06.30-09.01.47:978][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.06.30-09.01.47:979][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.06.30-09.01.47:979][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.06.30-09.01.47:979][340]LogInit: FAudioDevice initialized with ID 17.
+[2023.06.30-09.01.47:979][340]LogAudio: Display: Audio Device (ID: 17) registered with world 'GameShowWorld'.
+[2023.06.30-09.01.47:979][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.06.30-09.01.48:022][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-09.01.48:022][340]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-09.01.48:023][340]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-11.01.48
+[2023.06.30-09.01.48:023][340]LogWorld: Bringing up level for play took: 0.000563
+[2023.06.30-09.01.48:025][340]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.06.30-09.01.48:026][340]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-09.01.48:028][340]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-09.01.48:028][340]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-09.01.48:028][340]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-09.01.48:030][340]PIE: Server logged in
+[2023.06.30-09.01.48:032][340]PIE: Play in editor total start time 0,097 seconds.
+[2023.06.30-09.01.48:041][340]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-09.01.56:575][847]Set new viewmode: Wireframe
+[2023.06.30-09.01.56:614][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-09.01.56:614][847]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-09.01.56:614][847]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-09.01.56:622][847]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-09.01.56:622][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.01.56:626][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-09.01.56:632][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.01.56:655][847]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.30-09.01.56:656][847]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.06.30-09.01.56:656][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.06.30-09.01.56:658][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.06.30-09.01.56:664][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.30-09.01.56:681][848]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.06.30-09.01.59:447][ 14]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.30-09.01.59:453][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.30-09.01.59:453][ 14]PIE: New page: PIE session: GameShowWorld (30 Jun 2023, 13:01:59)
+[2023.06.30-09.01.59:454][ 14]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-09.01.59:455][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001468s)
+[2023.06.30-09.01.59:455][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameShowWorld.GameShowWorld to /Game/UEDPIE_0_GameShowWorld.GameShowWorld (0.001503s)
+[2023.06.30-09.01.59:455][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.30-09.01.59:455][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-09.01.59:456][ 14]LogAIModule: Creating AISystem for world GameShowWorld
+[2023.06.30-09.01.59:456][ 14]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.06.30-09.01.59:476][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.06.30-09.01.59:477][ 14]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.06.30-09.01.59:477][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.30-09.01.59:477][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.30-09.01.59:477][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.30-09.01.59:477][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.30-09.01.59:477][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.30-09.01.59:477][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.30-09.01.59:477][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.30-09.01.59:477][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.30-09.01.59:478][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.30-09.01.59:478][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.30-09.01.59:478][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.30-09.01.59:480][ 14]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.30-09.01.59:493][ 14]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.06.30-09.01.59:493][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.30-09.01.59:493][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.30-09.01.59:493][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.30-09.01.59:493][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.06.30-09.01.59:493][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.06.30-09.01.59:495][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.06.30-09.01.59:495][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.06.30-09.01.59:495][ 14]LogInit: FAudioDevice initialized with ID 18.
+[2023.06.30-09.01.59:495][ 14]LogAudio: Display: Audio Device (ID: 18) registered with world 'GameShowWorld'.
+[2023.06.30-09.01.59:495][ 14]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.06.30-09.01.59:533][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-09.01.59:534][ 14]LogLoad: Game class is 'GameModeBase'
+[2023.06.30-09.01.59:535][ 14]LogWorld: Bringing World /Game/UEDPIE_0_GameShowWorld.GameShowWorld up for play (max tick rate 60) at 2023.06.30-11.01.59
+[2023.06.30-09.01.59:535][ 14]LogWorld: Bringing up level for play took: 0.000613
+[2023.06.30-09.01.59:537][ 14]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.06.30-09.01.59:537][ 14]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.30-09.01.59:539][ 14]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.30-09.01.59:539][ 14]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.30-09.01.59:539][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.30-09.01.59:540][ 14]PIE: Server logged in
+[2023.06.30-09.01.59:542][ 14]PIE: Play in editor total start time 0,089 seconds.
+[2023.06.30-09.01.59:551][ 14]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2023.06.30-09.02.10:573][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.30-09.02.10:573][666]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameShowWorld
+[2023.06.30-09.02.10:574][666]LogSlate: Window 'CarlsGameShows Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.30-09.02.10:583][666]LogWorld: UWorld::CleanupWorld for GameShowWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-09.02.10:583][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.02.10:586][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.30-09.02.10:592][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.02.10:615][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.06.30-09.02.10:615][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.06.30-09.02.10:617][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.06.30-09.02.10:623][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.06.30-09.02.10:641][667]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.06.30-09.09.51:003][115]BlueprintLog: New page: Compile WB_NerdQuizBody
+[2023.06.30-09.09.51:116][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.30-09.09.51:427][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.09.51:480][120]LogSavePackage: Moving output files for package: /Game/Blueprints/Nerdquiz/WB_NerdQuizBody
+[2023.06.30-09.09.51:481][120]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Saved/WB_NerdQuizBodyCE7E0CC34CED3F16D15E7FB3D226CD80.tmp' to '../../../../../../Users/Student/Documents/GitHub/CarlsGameShows/CarlsGameShows/Content/Blueprints/Nerdquiz/WB_NerdQuizBody.uasset'
+[2023.06.30-09.09.51:490][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.85 sec)
+[2023.06.30-09.09.51:497][120]AssetCheck: New page: Asset Save: WB_NerdQuizBody
+[2023.06.30-09.09.51:497][120]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Nerdquiz/WB_NerdQuizBody.WB_NerdQuizBody
